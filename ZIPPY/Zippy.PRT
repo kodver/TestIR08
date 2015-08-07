@@ -1,0 +1,169 @@
+
+
+
+ $$$$$   $$$   $      $$$  $$$$    $$$   $$$$$     $    $$$    $$$ 
+ $      $   $  $       $   $   $  $   $  $        $$   $   $  $   $
+ $      $      $       $   $   $  $      $         $   $   $  $   $
+ $$$$   $      $       $   $$$$    $$$   $$$$      $   $   $  $   $
+ $      $      $       $   $          $  $         $   $   $  $   $
+ $      $   $  $       $   $      $   $  $         $   $   $  $   $
+ $$$$$   $$$   $$$$$  $$$  $       $$$   $$$$$    $$$   $$$    $$$ 
+
+
+
+                       $$$$$   $$$   $      $$$  $$$$    $$$   $$$$$     $    $$$    $$$ 
+                       $      $   $  $       $   $   $  $   $  $        $$   $   $  $   $
+                       $      $      $       $   $   $  $      $         $   $   $  $   $
+                       $$$$   $      $       $   $$$$    $$$   $$$$      $   $   $  $   $
+                       $      $      $       $   $          $  $         $   $   $  $   $
+                       $      $   $  $       $   $      $   $  $         $   $   $  $   $
+                       $$$$$   $$$   $$$$$  $$$  $       $$$   $$$$$    $$$   $$$    $$$ 
+
+
+
+                                             $$$$$   $$$   $      $$$  $$$$    $$$   $$$$$     $    $$$    $$$ 
+                                             $      $   $  $       $   $   $  $   $  $        $$   $   $  $   $
+                                             $      $      $       $   $   $  $      $         $   $   $  $   $
+                                             $$$$   $      $       $   $$$$    $$$   $$$$      $   $   $  $   $
+                                             $      $      $       $   $          $  $         $   $   $  $   $
+                                             $      $   $  $       $   $      $   $  $         $   $   $  $   $
+                                             $$$$$   $$$   $$$$$  $$$  $       $$$   $$$$$    $$$   $$$    $$$ 
+
+
+
+                                                                   $$$$$   $$$   $      $$$  $$$$    $$$   $$$$$     $    $$$    $$$ 
+                                                                   $      $   $  $       $   $   $  $   $  $        $$   $   $  $   $
+                                                                   $      $      $       $   $   $  $      $         $   $   $  $   $
+                                                                   $$$$   $      $       $   $$$$    $$$   $$$$      $   $   $  $   $
+                                                                   $      $      $       $   $          $  $         $   $   $  $   $
+                                                                   $      $   $  $       $   $      $   $  $         $   $   $  $   $
+                                                                   $$$$$   $$$   $$$$$  $$$  $       $$$   $$$$$    $$$   $$$    $$$ 
+ 
+ Version =  2009.1
+ Arch    =  PC WINDOWS (32 bit)
+Annex    | Modification date    | Update date          | baseline             
+=====    | =================    | ===========          | ========             
+ECLIPSE  | 27-APR-2009 16:22:47 | 27-APR-2009 19:37:10 | S:\2009.1_w18i
+system   | 22-APR-2009 14:52:01 | 25-APR-2009 05:27:35 | S:\2009.1_w18
+utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
+ 
+
+1
+
+ ******** ECHO OF INPUT DATA FOR RUN Zippy
+
+ 0: -- Keyword ZIPP2 to turn on automatic time-stepping slection
+ 0: -- Keyword ZIPP2OFF top turn off automatic time-stepping selection
+ 0: RUNSPEC
+ 0: TITLE
+ 0:  Benchmark
+ 0: 
+ 0: DIMENS
+ 0: 50 50 25 /
+ 0: 
+ 0: DISGAS
+ 0: VAPOIL
+ 0: 
+ 0: CART
+ 0: 
+ 0: OIL
+ 0: 
+ 0: 
+ 0: WATER
+ 0: 
+ 0: GAS
+ 0: 
+ 0: 
+ 0: LGR
+ 0: 18 300 1* 2 4 /
+ 0: 
+ 0: 
+ 0: 
+ 0: FIELD
+ 0: 
+ 0: AQUDIMS
+ 0: 8 8 /
+ 0: 
+ 0: EQLDIMS
+ 0:     1  100   10    1  /
+ 0: 
+ 0: TABDIMS
+ 0:     1    1   19   15   1*   15 7* 1 /
+ 0: 
+ 0: --REGDIMS
+ 0: --   15    1    0    0  /
+ 0: 
+ 0: WELLDIMS
+ 0:     50    55    5    20  /
+ 0: 
+ 0: --NUPCOL
+ 0: --    4 /
+ 0: 
+ 0: START
+ 0:    1 'JAN' 1982  /
+ 0: 
+ 0: NSTACK
+ 0:    24 /
+ 0: 
+ 0: --DEBUG
+ 0: --  2  0  0   0  0  0  1/
+ 0: 
+ 0: OPTIONS
+ 0: 
+ 0: GRID     ===============================================================
+ 0: -------- IN THIS SECTION , THE GEOMETRY OF THE SIMULATION GRID AND THE
+ 0: -------- ROCK PERMEABILITIES AND POROSITIES ARE DEFINED.
+ 0: ------------------------------------------------------------------------
+ 0: NOECHO
+ 0: ECHO
+ 0: 
+ 0: INIT
+ 0: 
+ 0: NOECHO
+
+ ******** START OF INCLUDED FILE ZCORN_50_50_25.INC                                                                                                                  
+
+
+ ******** END OF INCLUDED FILE 
+
+
+ ******** START OF INCLUDED FILE BLACK.PVO                                                                                                                           
+
+
+ ******** END OF INCLUDED FILE 
+
+
+ ******** END OF INPUT DATA FOR RUN Zippy
+     1 READING RUNSPEC 
+     2 READING TITLE   
+     3 READING DIMENS  
+     4 READING DISGAS  
+     5 READING VAPOIL  
+     6 READING CART    
+     7 READING OIL     
+     8 READING WATER   
+     9 READING GAS     
+    10 READING LGR     
+    11 READING FIELD   
+    12 READING AQUDIMS 
+    13 READING EQLDIMS 
+    14 READING TABDIMS 
+    15 READING WELLDIMS
+    16 READING START   
+    17 READING NSTACK  
+    18 READING OPTIONS 
+    19 READING GRID    
+
+ @--MESSAGE  AT TIME        0.0   DAYS    ( 1-JAN-1982):
+ @           CHECKING FOR LICENSES                                           
+
+ @--  ERROR  AT TIME        0.0   DAYS    ( 1-JAN-1982):
+ @           LICENSE FAILURE: ERROR NUMBER IS -1                             
+
+ Error summary 
+ Comments               0
+ Warnings               0
+ Problems               0
+ Errors                 1
+ Bugs                   0
+ Final cpu       0.00 elapsed       0.00

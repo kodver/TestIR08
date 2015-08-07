@@ -1,0 +1,8 @@
+<eclipse>
+<message date="1/1/1982" time="0.00000000000000">
+ CHECKING FOR LICENSES                                                   
+</message>
+<error date="1/1/1982" time="0.00000000000000">
+ LICENSE FAILURE: ERROR NUMBER IS -1                                     
+</error>
+</eclipse>
