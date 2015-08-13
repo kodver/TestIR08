@@ -1,0 +1,334 @@
+<eclipse>
+<message date="1/1/1983" time="0.00000000000000">
+ CHECKING FOR LICENSES                                                   
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+ THE MEMORY REQUIRED TO PROCESS THE GRID SECTION IS                      
+      71084 BYTES                                                        
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+ UNSPECIFIED TOPS VALUES OBTAINED BY ADDING DZ                           
+ TO TOPS VALUE FOR LAYER ABOVE                                           
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+ NEITHER OLDTRAN,OLDTRANR NOR NEWTRAN SPECIFIED                          
+ BLOCK CENTRE TRANSMISSIBILITIES TO BE CALCULATED                        
+ USING  OLDTRAN                                                          
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+ NUMBER OF ACTIVE CELLS IS 162                                           
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+ THE MEMORY REQUIRED TO PROCESS THE SOLUTION SECTION IS                  
+     443468 BYTES                                                        
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+    58654 CHARACTER VARIABLES USED                                       
+</message>
+<warning date="1/1/1983" time="0.00000000000000">
+ PRODUCTION WELL VFP TABLE   1 CONTAINS AT LEAST ONE                     
+ POINT WHERE THE BHP INCREASES WITH DECREASING THP.                      
+ AT POINT (FLOW, THP, WFR, GFR, ALQ) =    1   1   1   2   2              
+ THE BHP =   1.43364E+02   BARSA .                                       
+ IF THIS BHP VALUE INDICATES THE FLOW IS CHOKED OR                       
+ EXCEEDS EROSION VELOCITY LIMITS, IT MAY BE CORRECT                      
+ AND THE CHECK MAY BE THRESHOLDED WITH KEYWORD VFPCHK.                   
+ OTHERWISE YOU SHOULD EXAMINE THE TABLE WITH VFPi AS                     
+ IT COULD CAUSE WELL CONVERGENCE OR HUNTING PROBLEMS.                    
+</warning>
+<message date="1/1/1983" time="0.00000000000000">
+ THE TOP-UP PHASE IS SET TO WATER AS                                     
+ GROUP FIELD    HAS A TARGET OR LIMIT RESERVOIR                          
+ VOLUME RATE OR VOIDAGE REPLACEMENT FRACTION                             
+ FOR WATER INJECTION CONTROL                                             
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+ **********************************************                          
+ * WELL P24      HAS CHANGED TO GROUP CONTROL *                          
+ * FROM TIME      0.00   DAYS  .              *                          
+ **********************************************                          
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+ **********************************************                          
+ * WELL P26      HAS CHANGED TO GROUP CONTROL *                          
+ * FROM TIME      0.00   DAYS  .              *                          
+ **********************************************                          
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+ **********************************************                          
+ * WELL P37      HAS CHANGED TO GROUP CONTROL *                          
+ * FROM TIME      0.00   DAYS  .              *                          
+ **********************************************                          
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+ **********************************************                          
+ * WELL P45      HAS CHANGED TO GROUP CONTROL *                          
+ * FROM TIME      0.00   DAYS  .              *                          
+ **********************************************                          
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+ **********************************************                          
+ * WELL P53      HAS CHANGED TO GROUP CONTROL *                          
+ * FROM TIME      0.00   DAYS  .              *                          
+ **********************************************                          
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+ **********************************************                          
+ * WELL P64      HAS CHANGED TO GROUP CONTROL *                          
+ * FROM TIME      0.00   DAYS  .              *                          
+ **********************************************                          
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+ **********************************************                          
+ * WELL P75      HAS CHANGED TO GROUP CONTROL *                          
+ * FROM TIME      0.00   DAYS  .              *                          
+ **********************************************                          
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+ ******************************************                              
+ * GROUP FIELD    HAS CHANGED TO          *                              
+ *  OIL   PRODUCTION RATE CONTROL         *                              
+ * FROM TIME      0.00   DAYS  .          *                              
+ ******************************************                              
+</message>
+<message date="20/2/1983" time="50.00000000000000">
+ RESTART FILE WRITTEN   REPORT     1                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="11/4/1983" time="100.00000000000000">
+ RESTART FILE WRITTEN   REPORT     2                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="11/4/1983" time="100.00000000000000">
+ ******************************************                              
+ * WELL P24      HAS CHANGED TO           *                              
+ * CONTROL BY TUBING HEAD PRESSURE        *                              
+ * FROM TIME    100.00   DAYS  .          *                              
+ ******************************************                              
+</message>
+<message date="11/4/1983" time="100.00000000000000">
+ ******************************************                              
+ * WELL P26      HAS CHANGED TO           *                              
+ * CONTROL BY TUBING HEAD PRESSURE        *                              
+ * FROM TIME    100.00   DAYS  .          *                              
+ ******************************************                              
+</message>
+<message date="11/4/1983" time="100.00000000000000">
+ ******************************************                              
+ * WELL P37      HAS CHANGED TO           *                              
+ * CONTROL BY TUBING HEAD PRESSURE        *                              
+ * FROM TIME    100.00   DAYS  .          *                              
+ ******************************************                              
+</message>
+<message date="11/4/1983" time="100.00000000000000">
+ ******************************************                              
+ * WELL P45      HAS CHANGED TO           *                              
+ * CONTROL BY TUBING HEAD PRESSURE        *                              
+ * FROM TIME    100.00   DAYS  .          *                              
+ ******************************************                              
+</message>
+<message date="11/4/1983" time="100.00000000000000">
+ ******************************************                              
+ * WELL P53      HAS CHANGED TO           *                              
+ * CONTROL BY TUBING HEAD PRESSURE        *                              
+ * FROM TIME    100.00   DAYS  .          *                              
+ ******************************************                              
+</message>
+<message date="11/4/1983" time="100.00000000000000">
+ ******************************************                              
+ * WELL P64      HAS CHANGED TO           *                              
+ * CONTROL BY TUBING HEAD PRESSURE        *                              
+ * FROM TIME    100.00   DAYS  .          *                              
+ ******************************************                              
+</message>
+<message date="11/4/1983" time="100.00000000000000">
+ ******************************************                              
+ * WELL P75      HAS CHANGED TO           *                              
+ * CONTROL BY TUBING HEAD PRESSURE        *                              
+ * FROM TIME    100.00   DAYS  .          *                              
+ ******************************************                              
+</message>
+<message date="11/4/1983" time="100.00000000000000">
+ *********************************************                           
+ * THE CONNECTION IN BLOCK (  2,  4,  2)     *                           
+ * IN WELL P24      IS CLOSED                *                           
+ * AT TIME     200.00   DAYS  , BECAUSE      *                           
+ * ITS    WATER CUT      7.3094E-01          *                           
+ * VIOLATES THE LIMIT   7.0000E-01         . *                           
+ *********************************************                           
+</message>
+<message date="11/4/1983" time="100.00000000000000">
+ *****************************************                               
+ * WORKOVER RIG NUMBER 100 OCCUPIED WITH *                               
+ * WELL P24      FOR     101.00  DAYS    *                               
+ *****************************************                               
+</message>
+<message date="20/7/1983" time="200.00000000000000">
+ RESTART FILE WRITTEN   REPORT     3                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="20/7/1983" time="200.00000000000000">
+ *********************************************                           
+ * THE CONNECTION IN BLOCK (  2,  6,  2)     *                           
+ * IN WELL P26      IS CLOSED                *                           
+ * AT TIME     300.00   DAYS  , BECAUSE      *                           
+ * ITS    WATER CUT      7.7723E-01          *                           
+ * VIOLATES THE LIMIT   7.0000E-01         . *                           
+ *********************************************                           
+</message>
+<message date="20/7/1983" time="200.00000000000000">
+ *****************************************                               
+ * WORKOVER RIG NUMBER 100 OCCUPIED WITH *                               
+ * WELL P26      FOR     101.00  DAYS    *                               
+ *****************************************                               
+</message>
+<message date="20/7/1983" time="200.00000000000000">
+ *********************************************                           
+ * WELL P24      IS PUT ON ARTIFICIAL LIFT   *                           
+ * AT TIME    300.00   DAYS  , BECAUSE THE   *                           
+ *  OIL   RATE    3.2210E+02  SM3/DAY HAS    *                           
+ * FALLEN BELOW    5.0000E+02  SM3/DAY :     *                           
+ * VFP TABLE   1   LIFT QUANTITY  5.0000E+01 *                           
+ * WELL EFFICIENCY FACTOR   0.5000           *                           
+ *********************************************                           
+</message>
+<message date="20/7/1983" time="200.00000000000000">
+ *********************************************                           
+ * WELL P26      IS PUT ON ARTIFICIAL LIFT   *                           
+ * AT TIME    300.00   DAYS  , BECAUSE THE   *                           
+ *  OIL   RATE    4.1130E+02  SM3/DAY HAS    *                           
+ * FALLEN BELOW    5.0000E+02  SM3/DAY :     *                           
+ * VFP TABLE   1   LIFT QUANTITY  5.0000E+01 *                           
+ * WELL EFFICIENCY FACTOR   0.5000           *                           
+ *********************************************                           
+</message>
+<message date="28/10/1983" time="300.00000000000000">
+ RESTART FILE WRITTEN   REPORT     4                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="28/10/1983" time="300.00000000000000">
+ *********************************************                           
+ * WELL P37      IS PUT ON ARTIFICIAL LIFT   *                           
+ * AT TIME    400.00   DAYS  , BECAUSE THE   *                           
+ *  OIL   RATE    2.4468E+02  SM3/DAY HAS    *                           
+ * FALLEN BELOW    5.0000E+02  SM3/DAY :     *                           
+ * VFP TABLE   1   LIFT QUANTITY  5.0000E+01 *                           
+ * WELL EFFICIENCY FACTOR   0.5000           *                           
+ *********************************************                           
+</message>
+<message date="5/2/1984" time="400.00000000000000">
+ RESTART FILE WRITTEN   REPORT     5                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="5/2/1984" time="400.00000000000000">
+ *********************************************                           
+ * THE CONNECTION IN BLOCK (  2,  4,  1)     *                           
+ * IN WELL P24      IS CLOSED                *                           
+ * AT TIME     500.00   DAYS  , BECAUSE      *                           
+ * ITS    WATER CUT      7.3926E-01          *                           
+ * VIOLATES THE LIMIT   7.0000E-01         . *                           
+ *********************************************                           
+</message>
+<message date="5/2/1984" time="400.00000000000000">
+ ****************************************************************        
+ * WELL P24      IS  SHUT   AT TIME     500.00   DAYS   BECAUSE *        
+ * IT HAS NO CONNECTIONS OPEN TO THE RESERVOIR.                 *        
+ ****************************************************************        
+</message>
+<message date="5/2/1984" time="400.00000000000000">
+ *********************************************                           
+ * THE CONNECTION IN BLOCK (  2,  6,  1)     *                           
+ * IN WELL P26      IS CLOSED                *                           
+ * AT TIME     500.00   DAYS  , BECAUSE      *                           
+ * ITS    WATER CUT      7.3692E-01          *                           
+ * VIOLATES THE LIMIT   7.0000E-01         . *                           
+ *********************************************                           
+</message>
+<message date="5/2/1984" time="400.00000000000000">
+ ****************************************************************        
+ * WELL P26      IS  SHUT   AT TIME     500.00   DAYS   BECAUSE *        
+ * IT HAS NO CONNECTIONS OPEN TO THE RESERVOIR.                 *        
+ ****************************************************************        
+</message>
+<message date="5/2/1984" time="400.00000000000000">
+ *********************************************                           
+ * WELL P75      IS PUT ON ARTIFICIAL LIFT   *                           
+ * AT TIME    500.00   DAYS  , BECAUSE THE   *                           
+ *  OIL   RATE    4.5156E+02  SM3/DAY HAS    *                           
+ * FALLEN BELOW    5.0000E+02  SM3/DAY :     *                           
+ * VFP TABLE   1   LIFT QUANTITY  5.0000E+01 *                           
+ * WELL EFFICIENCY FACTOR   0.5000           *                           
+ *********************************************                           
+</message>
+<message date="15/5/1984" time="500.00000000000000">
+ RESTART FILE WRITTEN   REPORT     6                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="15/5/1984" time="500.00000000000000">
+ *********************************************                           
+ * THE CONNECTION IN BLOCK (  3,  7,  2)     *                           
+ * IN WELL P37      IS CLOSED                *                           
+ * AT TIME     600.00   DAYS  , BECAUSE      *                           
+ * ITS    WATER CUT      7.1178E-01          *                           
+ * VIOLATES THE LIMIT   7.0000E-01         . *                           
+ *********************************************                           
+</message>
+<message date="15/5/1984" time="500.00000000000000">
+ *****************************************                               
+ * WORKOVER RIG NUMBER 100 OCCUPIED WITH *                               
+ * WELL P37      FOR     101.00  DAYS    *                               
+ *****************************************                               
+</message>
+<message date="15/5/1984" time="500.00000000000000">
+ *********************************************                           
+ * WELL P45      IS PUT ON ARTIFICIAL LIFT   *                           
+ * AT TIME    600.00   DAYS  , BECAUSE THE   *                           
+ *  OIL   RATE    2.0256E+02  SM3/DAY HAS    *                           
+ * FALLEN BELOW    5.0000E+02  SM3/DAY :     *                           
+ * VFP TABLE   1   LIFT QUANTITY  5.0000E+01 *                           
+ * WELL EFFICIENCY FACTOR   0.5000           *                           
+ *********************************************                           
+</message>
+<message date="15/5/1984" time="500.00000000000000">
+ *********************************************                           
+ * WELL P53      IS PUT ON ARTIFICIAL LIFT   *                           
+ * AT TIME    600.00   DAYS  , BECAUSE THE   *                           
+ *  OIL   RATE    1.5027E+02  SM3/DAY HAS    *                           
+ * FALLEN BELOW    5.0000E+02  SM3/DAY :     *                           
+ * VFP TABLE   1   LIFT QUANTITY  5.0000E+01 *                           
+ * WELL EFFICIENCY FACTOR   0.5000           *                           
+ *********************************************                           
+</message>
+<message date="15/5/1984" time="500.00000000000000">
+ *********************************************                           
+ * WELL P64      IS PUT ON ARTIFICIAL LIFT   *                           
+ * AT TIME    600.00   DAYS  , BECAUSE THE   *                           
+ *  OIL   RATE    1.6928E+02  SM3/DAY HAS    *                           
+ * FALLEN BELOW    5.0000E+02  SM3/DAY :     *                           
+ * VFP TABLE   1   LIFT QUANTITY  5.0000E+01 *                           
+ * WELL EFFICIENCY FACTOR   0.5000           *                           
+ *********************************************                           
+</message>
+<message date="23/8/1984" time="600.00000000000000">
+ RESTART FILE WRITTEN   REPORT     7                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<warning date="1/12/1984" time="700.00000000000000">
+ **************************************************                      
+ * THE PRESSURE IN THE SECTION OF THE RESERVOIR   *                      
+ * DESCRIBED BY PVT TABLE    1 HAS FALLEN BELOW   *                      
+ * THE SPECIFIED BUBBLE POINT. THE RUN WILL STOP  *                      
+ * AT THE NEXT REPORT TIME.                       *                      
+ **************************************************                      
+</warning>
+<message date="1/12/1984" time="700.00000000000000">
+ RESTART FILE WRITTEN   REPORT     8                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<comment date="1/12/1984" time="700.00000000000000">
+ ***********************************************                         
+ * RUN STOPPED BECAUSE RESERVOIR PRESSURE HAS  *                         
+ * FALLEN BELOW THE SPECIFIED BUBBLE/DEW POINT *                         
+ ***********************************************                         
+</comment>
+</eclipse>
