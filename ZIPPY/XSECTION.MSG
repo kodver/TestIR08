@@ -1,0 +1,227 @@
+<eclipse>
+<message date="1/1/1983" time="0.00000000000000">
+ CHECKING FOR LICENSES                                                   
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+ THE MEMORY REQUIRED TO PROCESS THE GRID SECTION IS                      
+      83984 BYTES                                                        
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+ NEITHER OLDTRAN,OLDTRANR NOR NEWTRAN SPECIFIED                          
+ TRANSMISSIBILITIES TO BE CALCULATED                                     
+ USING  NEWTRAN                                                          
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+ NO FAULT NON-NEIGHBOUR TRANSMISSIBILITIES                               
+ AS NONNC IS SPECIFIED IN RUNSPEC.                                       
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+ NUMBER OF ACTIVE CELLS IS 200                                           
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+ THE MEMORY REQUIRED TO PROCESS THE SOLUTION SECTION IS                  
+     414924 BYTES                                                        
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+    58546 CHARACTER VARIABLES USED                                       
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+ THE TOP-UP PHASE IS SET TO WATER AS                                     
+ GROUP g        HAS A TARGET OR LIMIT RESERVOIR                          
+ VOLUME RATE OR VOIDAGE REPLACEMENT FRACTION                             
+ FOR WATER INJECTION CONTROL                                             
+</message>
+<message date="1/1/1983" time="0.00000000000000">
+ RESTART FILE WRITTEN   REPORT     0                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="25/1/1983" time="24.30621854353614">
+ ******************************************                              
+ * WELL I20      HAS CHANGED TO           *                              
+ * CONTROL BY WATER RATE                  *                              
+ * FROM TIME     24.31   DAYS  .          *                              
+ ******************************************                              
+</message>
+<message date="25/1/1983" time="24.30621854353614">
+ **********************************                                      
+ * GROUP G        CANNOT MEET ITS *                                      
+ * WATER  INJECTION  TARGET       *                                      
+ * AFTER TIME     24.31   DAYS  . *                                      
+ **********************************                                      
+</message>
+<message date="30/6/1983" time="180.00000000000000">
+ RESTART FILE WRITTEN   REPORT     1                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="27/12/1983" time="360.00000000000000">
+ RESTART FILE WRITTEN   REPORT     2                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="27/12/1983" time="360.00000000000000">
+ ******************************************                              
+ * WELL P1       HAS CHANGED TO           *                              
+ * CONTROL BY BOTTOM HOLE PRESSURE        *                              
+ * FROM TIME    360.00   DAYS  .          *                              
+ ******************************************                              
+</message>
+<message date="27/12/1983" time="360.00000000000000">
+ ******************************************                              
+ * WELL P11      HAS CHANGED TO           *                              
+ * CONTROL BY BOTTOM HOLE PRESSURE        *                              
+ * FROM TIME    360.00   DAYS  .          *                              
+ ******************************************                              
+</message>
+<message date="27/12/1983" time="360.00000000000000">
+ **********************************************                          
+ * WELL I20      HAS CHANGED TO GROUP CONTROL *                          
+ * FROM TIME    360.00   DAYS  .              *                          
+ **********************************************                          
+</message>
+<message date="27/12/1983" time="360.00000000000000">
+ **********************************                                      
+ * GROUP G        CANNOT MEET ITS *                                      
+ *  OIL   PRODUCTION TARGET       *                                      
+ * AFTER TIME    360.00   DAYS  . *                                      
+ **********************************                                      
+</message>
+<message date="27/12/1983" time="360.00000000000000">
+ **********************************                                      
+ * GROUP G        CAN MEET ITS    *                                      
+ * WATER  INJECTION  TARGET       *                                      
+ * AFTER TIME    360.00   DAYS  . *                                      
+ **********************************                                      
+</message>
+<message date="26/3/1984" time="450.00000000000000">
+ **********************************************************              
+ * THE WORST-OFFENDING CONNECTION - BLOCK ( 11,  1,  9)   *              
+ * IN WELL P11      AND ALL BELOW IT ARE CLOSED           *              
+ * AT TIME     540.00   DAYS  , BECAUSE                   *              
+ * THE WELL     WATER CUT      5.3742E-01                 *              
+ * EXCEEDS THE LIMIT   5.0000E-01         .               *              
+ **********************************************************              
+</message>
+<message date="24/6/1984" time="540.00000000000000">
+ RESTART FILE WRITTEN   REPORT     3                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="24/6/1984" time="540.00000000000000">
+ **********************************************************              
+ * THE WORST-OFFENDING CONNECTION - BLOCK ( 11,  1,  6)   *              
+ * IN WELL P11      AND ALL BELOW IT ARE CLOSED           *              
+ * AT TIME     630.00   DAYS  , BECAUSE                   *              
+ * THE WELL     WATER CUT      5.8917E-01                 *              
+ * EXCEEDS THE LIMIT   5.0000E-01         .               *              
+ **********************************************************              
+</message>
+<message date="22/9/1984" time="630.00000000000000">
+ **********************************************************              
+ * THE WORST-OFFENDING CONNECTION - BLOCK ( 11,  1,  5)   *              
+ * IN WELL P11      AND ALL BELOW IT ARE CLOSED           *              
+ * AT TIME     720.00   DAYS  , BECAUSE                   *              
+ * THE WELL     WATER CUT      6.0638E-01                 *              
+ * EXCEEDS THE LIMIT   5.0000E-01         .               *              
+ **********************************************************              
+</message>
+<message date="21/12/1984" time="720.00000000000000">
+ RESTART FILE WRITTEN   REPORT     4                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="21/12/1984" time="720.00000000000000">
+ ****************************************************************        
+ * WELL P11      IS  SHUT   AT TIME     810.00   DAYS   BECAUSE *        
+ * IT HAS AN OIL RATE   8.8708E+02  STB/DAY                     *        
+ * BELOW THE MINIMUM ECONOMIC VALUE   1.0000E+03  STB/DAY       *        
+ ****************************************************************        
+</message>
+<message date="19/6/1985" time="900.00000000000000">
+ RESTART FILE WRITTEN   REPORT     5                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="16/12/1985" time="1080.00000000000000">
+ RESTART FILE WRITTEN   REPORT     6                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="14/6/1986" time="1260.00000000000000">
+ RESTART FILE WRITTEN   REPORT     7                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="11/12/1986" time="1440.00000000000000">
+ RESTART FILE WRITTEN   REPORT     8                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="9/6/1987" time="1620.00000000000000">
+ RESTART FILE WRITTEN   REPORT     9                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="6/12/1987" time="1800.00000000000000">
+ RESTART FILE WRITTEN   REPORT    10                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="3/6/1988" time="1980.00000000000000">
+ RESTART FILE WRITTEN   REPORT    11                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="30/11/1988" time="2160.00000000000000">
+ RESTART FILE WRITTEN   REPORT    12                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="29/5/1989" time="2340.00000000000000">
+ RESTART FILE WRITTEN   REPORT    13                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="25/11/1989" time="2520.00000000000000">
+ RESTART FILE WRITTEN   REPORT    14                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="24/5/1990" time="2700.00000000000000">
+ RESTART FILE WRITTEN   REPORT    15                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="20/11/1990" time="2880.00000000000000">
+ RESTART FILE WRITTEN   REPORT    16                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="19/5/1991" time="3060.00000000000000">
+ RESTART FILE WRITTEN   REPORT    17                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="15/11/1991" time="3240.00000000000000">
+ RESTART FILE WRITTEN   REPORT    18                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="13/5/1992" time="3420.00000000000000">
+ RESTART FILE WRITTEN   REPORT    19                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<message date="13/5/1992" time="3420.00000000000000">
+ **********************************************************              
+ * THE WORST-OFFENDING CONNECTION - BLOCK (  1,  1,  9)   *              
+ * IN WELL P1       AND ALL BELOW IT ARE CLOSED           *              
+ * AT TIME    3600.00   DAYS  , BECAUSE                   *              
+ * THE WELL     WATER CUT      5.0664E-01                 *              
+ * EXCEEDS THE LIMIT   5.0000E-01         .               *              
+ **********************************************************              
+</message>
+<message date="13/5/1992" time="3420.00000000000000">
+ ****************************************************************        
+ * WELL P1       IS  SHUT   AT TIME    3600.00   DAYS   BECAUSE *        
+ * GROUP G        HAS AN OIL RATE   1.1548E+03  STB/DAY         *        
+ * BELOW THE MINIMUM ECONOMIC VALUE   1.2000E+03  STB/DAY       *        
+ ****************************************************************        
+</message>
+<message date="9/11/1992" time="3600.00000000000000">
+ *******************************************************                 
+ * THERE ARE NO PRODUCING WELLS LEFT IN GROUP G        *                 
+ * SO THE RUN WILL TERMINATE.                          *                 
+ *******************************************************                 
+</message>
+<message date="9/11/1992" time="3600.00000000000000">
+ RESTART FILE WRITTEN   REPORT    20                                     
+ RESTART INCLUDES FLUIDS IN PLACE                                        
+</message>
+<comment date="9/11/1992" time="3600.00000000000000">
+ *********************************************                           
+ * RUN STOPPED. SEE ABOVE FOR THE REASON.    *                           
+ *********************************************                           
+</comment>
+</eclipse>
