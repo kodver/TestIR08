@@ -52,6 +52,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
 
  ******** ECHO OF INPUT DATA FOR RUN UDA_E100
 
+ 0: 
  0: -- =====================================================================
  0: -- A 5000 3D3P PROBLEM
  0: -- =====================================================================
@@ -529,7 +530,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     64 READING TSTEP   
 1                             **********************************************************************   1
   SIMULATE AT     0.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT   0     1 JAN 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT   0     1 JAN 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  @--MESSAGE  AT TIME        0.0   DAYS    ( 1-JAN-1986):
@@ -566,7 +567,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
   PAV=  3611.6  PSIA   WCT=0.004 GOR=     1.13 MSCF/STB WGR=   0.0034 STB/MSCF   
 1                             **********************************************************************   2
   WELLS    AT    20.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT   1    21 JAN 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT   1    21 JAN 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -637,27 +638,27 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     :  LAYER :          5:    :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
     ================================================================================================================================
  =======================================================
- TIMING REPORTS AT CPU=     0 SECS - ELAPSED=     1 SECS
+ TIMING REPORTS AT CPU=     0 SECS - ELAPSED=     0 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1 37100
- TS      1 63  0
-                NX      4 63  0
+ SR      1  0  0
+ TS      1  0  0
+                NX      4  0  0
                                WC     10  0  0
                                LMRS   10  0  0
                                CONV   10  0  0
                                LMJC    6  0  0
-                               LXX     6 63  0
+                               LXX     6  0  0
                                               WGIN    6  0  0
                                               RGIN    6  0  0
-                                              GINV    6 26  0
-                                                             GINV    6 26  0
+                                              GINV    6  0  0
+                                                             GINV    6  0  0
                                               WRES    6  0  0
                                               RRES    6  0  0
-                                              ITER    6 38  0
+                                              ITER    6  0  0
                                                              NORM   24  0  0
-                                                             SRCH   18 38  0
+                                                             SRCH   18  0  0
                                                              WADX   36  0  0
                                                              ORTH   18  0  0
                                                              UPDA   18  0  0
@@ -668,14 +669,14 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  XW      1  0  0
 1                             **********************************************************************   3
   SIMULATE AT    20.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT   1    21 JAN 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT   1    21 JAN 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP    5 TIME=   40.00  DAYS ( +20.0  DAYS REPT  1 ITS) (10-FEB-1986)          
   PAV=  3597.9  PSIA   WCT=0.013 GOR=     1.13 MSCF/STB WGR=   0.0112 STB/MSCF   
 1                             **********************************************************************   4
   WELLS    AT    40.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT   2    10 FEB 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT   2    10 FEB 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -746,45 +747,45 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     :  LAYER :          5:    :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
     ================================================================================================================================
  =======================================================
- TIMING REPORTS AT CPU=     0 SECS - ELAPSED=     1 SECS
+ TIMING REPORTS AT CPU=     0 SECS - ELAPSED=     0 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1 29100
- TS      2 71  0
-                NX      5 71  0
+ SR      1  0  0
+ TS      2  0  0
+                NX      5  0  0
                                WC     12  0  0
                                LMRS   12  0  0
                                CONV   12  0  0
                                LMJC    7  0  0
-                               LXX     7 60  0
+                               LXX     7  0  0
                                               WGIN    7  0  0
                                               RGIN    7  0  0
-                                              GINV    7 30  0
-                                                             GINV    7 30  0
+                                              GINV    7  0  0
+                                                             GINV    7  0  0
                                               WRES    7  0  0
                                               RRES    7  0  0
-                                              ITER    7 30  0
+                                              ITER    7  0  0
                                                              NORM   30  0  0
-                                                             SRCH   23 30  0
+                                                             SRCH   23  0  0
                                                              WADX   46  0  0
                                                              ORTH   23  0  0
                                                              UPDA   23  0  0
                                               WSOL    7  0  0
-                               XUIT    7 10  0
+                               XUIT    7  0  0
                                LC      7  0  0
  WWX     2  0  0
  XW      2  0  0
 1                             **********************************************************************   5
   SIMULATE AT    40.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT   2    10 FEB 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT   2    10 FEB 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP    6 TIME=   60.00  DAYS ( +20.0  DAYS REPT  1 ITS) (2-MAR-1986)           
   PAV=  3584.1  PSIA   WCT=0.024 GOR=     1.13 MSCF/STB WGR=   0.0221 STB/MSCF   
 1                             **********************************************************************   6
   WELLS    AT    60.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT   3     2 MAR 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT   3     2 MAR 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -855,45 +856,45 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     :  LAYER :          5:    :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
     ================================================================================================================================
  =======================================================
- TIMING REPORTS AT CPU=     0 SECS - ELAPSED=     1 SECS
+ TIMING REPORTS AT CPU=     0 SECS - ELAPSED=     0 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1 23100
- TS      3 77  0
-                NX      6 62  0
+ SR      1  0  0
+ TS      3  0  0
+                NX      6  0  0
                                WC     14  0  0
                                LMRS   14  0  0
                                CONV   14  0  0
                                LMJC    8  0  0
-                               LXX     8 54  0
+                               LXX     8  0  0
                                               WGIN    8  0  0
                                               RGIN    8  0  0
-                                              GINV    8 23  0
-                                                             GINV    8 23  0
+                                              GINV    8  0  0
+                                                             GINV    8  0  0
                                               WRES    8  0  0
                                               RRES    8  0  0
-                                              ITER    8 31  0
+                                              ITER    8  0  0
                                                              NORM   35  0  0
-                                                             SRCH   27 31  0
+                                                             SRCH   27  0  0
                                                              WADX   54  0  0
                                                              ORTH   27  0  0
                                                              UPDA   27  0  0
                                               WSOL    8  0  0
-                               XUIT    8  8  0
+                               XUIT    8  0  0
                                LC      8  0  0
  WWX     3  0  0
  XW      3  0  0
 1                             **********************************************************************   7
   SIMULATE AT    60.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT   3     2 MAR 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT   3     2 MAR 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP    7 TIME=   80.00  DAYS ( +20.0  DAYS REPT  1 ITS) (22-MAR-1986)          
   PAV=  3570.1  PSIA   WCT=0.039 GOR=     1.13 MSCF/STB WGR=   0.0355 STB/MSCF   
 1                             **********************************************************************   8
   WELLS    AT    80.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT   4    22 MAR 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT   4    22 MAR 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -964,45 +965,45 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     :  LAYER :          5:    :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
     ================================================================================================================================
  =======================================================
- TIMING REPORTS AT CPU=     0 SECS - ELAPSED=     1 SECS
+ TIMING REPORTS AT CPU=     0 SECS - ELAPSED=     0 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1 21100
- TS      4 79  0
-                NX      7 65  0
+ SR      1  0  0
+ TS      4  0  0
+                NX      7  0  0
                                WC     16  0  0
                                LMRS   16  0  0
                                CONV   16  0  0
                                LMJC    9  0  0
-                               LXX     9 57  0
+                               LXX     9  0  0
                                               WGIN    9  0  0
                                               RGIN    9  0  0
-                                              GINV    9 22  0
-                                                             GINV    9 22  0
+                                              GINV    9  0  0
+                                                             GINV    9  0  0
                                               WRES    9  0  0
                                               RRES    9  0  0
-                                              ITER    9 36  0
+                                              ITER    9  0  0
                                                              NORM   40  0  0
-                                                             SRCH   31 36  0
+                                                             SRCH   31  0  0
                                                              WADX   62  0  0
                                                              ORTH   31  0  0
                                                              UPDA   31  0  0
                                               WSOL    9  0  0
-                               XUIT    9  7  0
+                               XUIT    9  0  0
                                LC      9  0  0
  WWX     4  0  0
  XW      4  0  0
 1                             **********************************************************************   9
   SIMULATE AT    80.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT   4    22 MAR 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT   4    22 MAR 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP    8 TIME=  100.00  DAYS ( +20.0  DAYS REPT  1 ITS) (11-APR-1986)          
   PAV=  3555.8  PSIA   WCT=0.054 GOR=     1.13 MSCF/STB WGR=   0.0509 STB/MSCF   
 1                             **********************************************************************  10
   WELLS    AT   100.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT   5    11 APR 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT   5    11 APR 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -1077,29 +1078,29 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1 20100
- TS      5 80  0
-                NX      8 67  0
+ SR      1  0  0
+ TS      5100100
+                NX      8  0  0
                                WC     18  0  0
                                LMRS   18  0  0
                                CONV   18  0  0
                                LMJC   10  0  0
-                               LXX    10 53  0
+                               LXX    10  0  0
                                               WGIN   10  0  0
                                               RGIN   10  0  0
-                                              GINV   10 20  0
-                                                             GINV   10 20  0
+                                              GINV   10  0  0
+                                                             GINV   10  0  0
                                               WRES   10  0  0
                                               RRES   10  0  0
-                                              ITER   10 33  0
+                                              ITER   10  0  0
                                                              NORM   45  0  0
-                                                             SRCH   35 33  0
+                                                             SRCH   35  0  0
                                                              WADX   70  0  0
                                                              ORTH   35  0  0
                                                              UPDA   35  0  0
                                               WSOL   10  0  0
-                               XUIT   10  7  0
-                               LC     10  7  0
+                               XUIT   10  0  0
+                               LC     10  0  0
  WWX     5  0  0
  XW      5  0  0
     65 READING GCONPROD
@@ -1112,7 +1113,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     66 READING TSTEP   
 1                             **********************************************************************  11
   SIMULATE AT   100.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT   5    11 APR 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT   5    11 APR 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  @--MESSAGE  AT TIME      100.0   DAYS    (11-APR-1986):
@@ -1132,7 +1133,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
   PAV=  3541.7  PSIA   WCT=0.070 GOR=     1.13 MSCF/STB WGR=   0.0670 STB/MSCF   
 1                             **********************************************************************  12
   WELLS    AT   120.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT   6     1 MAY 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT   6     1 MAY 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -1207,41 +1208,41 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1 18100
- TS      6 82  0
-                NX      9 69  0
+ SR      1  0  0
+ TS      6100100
+                NX      9  5  0
                                WC     20  0  0
                                LMRS   20  0  0
                                CONV   20  0  0
                                LMJC   11  0  0
-                               LXX    11 56  0
+                               LXX    11  5  0
                                               WGIN   11  0  0
                                               RGIN   11  0  0
-                                              GINV   11 19  0
-                                                             GINV   11 19  0
+                                              GINV   11  5  0
+                                                             GINV   11  5  0
                                               WRES   11  0  0
                                               RRES   11  0  0
-                                              ITER   11 38  0
+                                              ITER   11  0  0
                                                              NORM   51  0  0
-                                                             SRCH   40 38  0
+                                                             SRCH   40  0  0
                                                              WADX   80  0  0
                                                              ORTH   40  0  0
                                                              UPDA   40  0  0
                                               WSOL   11  0  0
-                               XUIT   11  6  0
-                               LC     11  6  0
+                               XUIT   11  0  0
+                               LC     11  0  0
  WWX     6  0  0
  XW      6  0  0
 1                             **********************************************************************  13
   SIMULATE AT   120.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT   6     1 MAY 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT   6     1 MAY 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   10 TIME=  140.00  DAYS ( +20.0  DAYS REPT  1 ITS) (21-MAY-1986)          
   PAV=  3527.3  PSIA   WCT=0.087 GOR=     1.13 MSCF/STB WGR=   0.0839 STB/MSCF   
 1                             **********************************************************************  14
   WELLS    AT   140.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT   7    21 MAY 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT   7    21 MAY 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -1316,41 +1317,41 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1 17100
- TS      7 83  0
-                NX     10 71  0
+ SR      1  0  0
+ TS      7100100
+                NX     10 10  0
                                WC     22  0  0
                                LMRS   22  0  0
                                CONV   22  0  0
                                LMJC   12  0  0
-                               LXX    12 59  0
+                               LXX    12 10  0
                                               WGIN   12  0  0
                                               RGIN   12  0  0
-                                              GINV   12 18  0
-                                                             GINV   12 18  0
+                                              GINV   12  5  0
+                                                             GINV   12  5  0
                                               WRES   12  0  0
                                               RRES   12  0  0
-                                              ITER   12 41  0
-                                                             NORM   57  0  0
-                                                             SRCH   45 35  0
+                                              ITER   12  5  0
+                                                             NORM   57  5  0
+                                                             SRCH   45  0  0
                                                              WADX   90  0  0
-                                                             ORTH   45  6  0
+                                                             ORTH   45  0  0
                                                              UPDA   45  0  0
                                               WSOL   12  0  0
-                               XUIT   12  6  0
-                               LC     12  6  0
+                               XUIT   12  0  0
+                               LC     12  0  0
  WWX     7  0  0
  XW      7  0  0
 1                             **********************************************************************  15
   SIMULATE AT   140.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT   7    21 MAY 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT   7    21 MAY 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   11 TIME=  160.00  DAYS ( +20.0  DAYS REPT  1 ITS) (10-JUN-1986)          
   PAV=  3512.7  PSIA   WCT=0.103 GOR=     1.13 MSCF/STB WGR=   0.1012 STB/MSCF   
 1                             **********************************************************************  16
   WELLS    AT   160.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT   8    10 JUN 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT   8    10 JUN 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -1425,41 +1426,41 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1 16100
- TS      8 84  0
-                NX     11 73  0
+ SR      1  0  0
+ TS      8 95100
+                NX     11 14  0
                                WC     24  0  0
                                LMRS   24  0  0
                                CONV   24  0  0
                                LMJC   13  0  0
-                               LXX    13 61  0
+                               LXX    13  9  0
                                               WGIN   13  0  0
                                               RGIN   13  0  0
-                                              GINV   13 17  0
-                                                             GINV   13 17  0
+                                              GINV   13  5  0
+                                                             GINV   13  5  0
                                               WRES   13  0  0
                                               RRES   13  0  0
-                                              ITER   13 44  0
-                                                             NORM   63  0  0
-                                                             SRCH   50 39  0
+                                              ITER   13  5  0
+                                                             NORM   63  5  0
+                                                             SRCH   50  0  0
                                                              WADX  100  0  0
-                                                             ORTH   50  5  0
+                                                             ORTH   50  0  0
                                                              UPDA   50  0  0
                                               WSOL   13  0  0
-                               XUIT   13  6  0
-                               LC     13  6  0
+                               XUIT   13  0  0
+                               LC     13  4  0
  WWX     8  0  0
  XW      8  0  0
 1                             **********************************************************************  17
   SIMULATE AT   160.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT   8    10 JUN 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT   8    10 JUN 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   12 TIME=  180.00  DAYS ( +20.0  DAYS REPT  1 ITS) (30-JUN-1986)          
   PAV=  3497.8  PSIA   WCT=0.118 GOR=     1.13 MSCF/STB WGR=   0.1183 STB/MSCF   
 1                             **********************************************************************  18
   WELLS    AT   180.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT   9    30 JUN 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT   9    30 JUN 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -1534,41 +1535,41 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1 15100
- TS      9 85  0
-                NX     12 70  0
+ SR      1  0  0
+ TS      9 96100
+                NX     12 18  0
                                WC     26  0  0
-                               LMRS   26  5  0
+                               LMRS   26  0  0
                                CONV   26  0  0
                                LMJC   14  0  0
-                               LXX    14 55  0
+                               LXX    14 13  0
                                               WGIN   14  0  0
                                               RGIN   14  0  0
-                                              GINV   14 15  0
-                                                             GINV   14 15  0
+                                              GINV   14  4  0
+                                                             GINV   14  4  0
                                               WRES   14  0  0
                                               RRES   14  0  0
-                                              ITER   14 40  0
-                                                             NORM   69  0  0
-                                                             SRCH   55 35  0
+                                              ITER   14  9  0
+                                                             NORM   69  4  0
+                                                             SRCH   55  0  0
                                                              WADX  110  0  0
-                                                             ORTH   55  5  0
+                                                             ORTH   55  4  0
                                                              UPDA   55  0  0
                                               WSOL   14  0  0
-                               XUIT   14  5  0
-                               LC     14  5  0
+                               XUIT   14  0  0
+                               LC     14  4  0
  WWX     9  0  0
  XW      9  0  0
 1                             **********************************************************************  19
   SIMULATE AT   180.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT   9    30 JUN 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT   9    30 JUN 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   13 TIME=  200.00  DAYS ( +20.0  DAYS REPT  1 ITS) (20-JLY-1986)          
   PAV=  3482.7  PSIA   WCT=0.132 GOR=     1.13 MSCF/STB WGR=   0.1348 STB/MSCF   
 1                             **********************************************************************  20
   WELLS    AT   200.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  10    20 JLY 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  10    20 JLY 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -1643,30 +1644,30 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1 14100
- TS     10 86  0
-                NX     13 72  0
+ SR      1  0  0
+ TS     10 92100
+                NX     13 20  0
                                WC     28  0  0
-                               LMRS   28  5  0
+                               LMRS   28  0  0
                                CONV   28  0  0
                                LMJC   15  0  0
-                               LXX    15 52  0
+                               LXX    15 16  0
                                               WGIN   15  0  0
                                               RGIN   15  0  0
-                                              GINV   15 14  0
-                                                             GINV   15 14  0
+                                              GINV   15  4  0
+                                                             GINV   15  4  0
                                               WRES   15  0  0
                                               RRES   15  0  0
-                                              ITER   15 38  0
-                                                             NORM   75  0  0
-                                                             SRCH   60 34  0
+                                              ITER   15 12  0
+                                                             NORM   75  4  0
+                                                             SRCH   60  4  0
                                                              WADX  120  0  0
-                                                             ORTH   60  5  0
+                                                             ORTH   60  4  0
                                                              UPDA   60  0  0
                                               WSOL   15  0  0
-                               XUIT   15 10  0
-                               LC     15  5  0
- WWX    10  0  0
+                               XUIT   15  0  0
+                               LC     15  4  0
+ WWX    10  4  0
  XW     10  0  0
     67 READING GCONPROD
 
@@ -1678,14 +1679,14 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     68 READING TSTEP   
 1                             **********************************************************************  21
   SIMULATE AT   200.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  10    20 JLY 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  10    20 JLY 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   14 TIME=  220.00  DAYS ( +20.0  DAYS REPT  1 ITS) (9-AUG-1986)           
   PAV=  3467.8  PSIA   WCT=0.145 GOR=     1.13 MSCF/STB WGR=   0.1496 STB/MSCF   
 1                             **********************************************************************  22
   WELLS    AT   220.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  11     9 AUG 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  11     9 AUG 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -1760,41 +1761,41 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1 13100
- TS     11 87  0
-                NX     14 70  0
+ SR      1  0  0
+ TS     11 93100
+                NX     14 23  0
                                WC     30  0  0
-                               LMRS   30  4  0
+                               LMRS   30  0  0
                                CONV   30  0  0
                                LMJC   16  0  0
-                               LXX    16 52  0
+                               LXX    16 15  0
                                               WGIN   16  0  0
                                               RGIN   16  0  0
-                                              GINV   16 13  0
-                                                             GINV   16 13  0
+                                              GINV   16  4  0
+                                                             GINV   16  4  0
                                               WRES   16  0  0
                                               RRES   16  0  0
-                                              ITER   16 39  0
-                                                             NORM   81  0  0
-                                                             SRCH   65 35  0
+                                              ITER   16 11  0
+                                                             NORM   81  4  0
+                                                             SRCH   65  4  0
                                                              WADX  130  0  0
                                                              ORTH   65  4  0
                                                              UPDA   65  0  0
                                               WSOL   16  0  0
-                               XUIT   16  9  0
-                               LC     16  4  0
- WWX    11  0  0
+                               XUIT   16  0  0
+                               LC     16  7  0
+ WWX    11  4  0
  XW     11  0  0
 1                             **********************************************************************  23
   SIMULATE AT   220.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  11     9 AUG 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  11     9 AUG 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   15 TIME=  240.00  DAYS ( +20.0  DAYS REPT  1 ITS) (29-AUG-1986)          
   PAV=  3452.7  PSIA   WCT=0.156 GOR=     1.13 MSCF/STB WGR=   0.1634 STB/MSCF   
 1                             **********************************************************************  24
   WELLS    AT   240.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  12    29 AUG 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  12    29 AUG 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -1869,41 +1870,41 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1 12100
- TS     12 88  0
-                NX     15 71  0
+ SR      1  0  0
+ TS     12 93100
+                NX     15 25  0
                                WC     32  0  0
-                               LMRS   32  4  0
+                               LMRS   32  0  0
                                CONV   32  0  0
                                LMJC   17  0  0
-                               LXX    17 54  0
+                               LXX    17 18  0
                                               WGIN   17  0  0
                                               RGIN   17  0  0
-                                              GINV   17 13  0
-                                                             GINV   17 13  0
+                                              GINV   17  4  0
+                                                             GINV   17  4  0
                                               WRES   17  0  0
                                               RRES   17  0  0
-                                              ITER   17 42  0
-                                                             NORM   87  0  0
-                                                             SRCH   70 38  0
+                                              ITER   17 15  0
+                                                             NORM   87  4  0
+                                                             SRCH   70  7  0
                                                              WADX  140  0  0
                                                              ORTH   70  4  0
                                                              UPDA   70  0  0
                                               WSOL   17  0  0
-                               XUIT   17  9  0
-                               LC     17  4  0
- WWX    12  0  0
+                               XUIT   17  0  0
+                               LC     17  7  0
+ WWX    12  3  0
  XW     12  0  0
 1                             **********************************************************************  25
   SIMULATE AT   240.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  12    29 AUG 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  12    29 AUG 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   16 TIME=  260.00  DAYS ( +20.0  DAYS REPT  1 ITS) (18-SEP-1986)          
   PAV=  3437.4  PSIA   WCT=0.166 GOR=     1.13 MSCF/STB WGR=   0.1760 STB/MSCF   
 1                             **********************************************************************  26
   WELLS    AT   260.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  13    18 SEP 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  13    18 SEP 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -1978,41 +1979,41 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1 11100
- TS     13 89  0
-                NX     16 69  0
+ SR      1  0  0
+ TS     13 93100
+                NX     16 30  0
                                WC     34  0  0
-                               LMRS   34  7  0
+                               LMRS   34  0  0
                                CONV   34  0  0
                                LMJC   18  0  0
-                               LXX    18 50  0
+                               LXX    18 21  0
                                               WGIN   18  0  0
                                               RGIN   18  0  0
-                                              GINV   18 12  0
-                                                             GINV   18 12  0
+                                              GINV   18  7  0
+                                                             GINV   18  7  0
                                               WRES   18  0  0
                                               RRES   18  0  0
-                                              ITER   18 38  0
-                                                             NORM   92  0  0
-                                                             SRCH   74 35  0
+                                              ITER   18 14  0
+                                                             NORM   92  3  0
+                                                             SRCH   74  7  0
                                                              WADX  148  0  0
-                                                             ORTH   74  4  0
+                                                             ORTH   74  3  0
                                                              UPDA   74  0  0
                                               WSOL   18  0  0
-                               XUIT   18  8  0
-                               LC     18  4  0
- WWX    13  0  0
+                               XUIT   18  0  0
+                               LC     18 10  0
+ WWX    13  3  0
  XW     13  0  0
 1                             **********************************************************************  27
   SIMULATE AT   260.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  13    18 SEP 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  13    18 SEP 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   17 TIME=  280.00  DAYS ( +20.0  DAYS REPT  1 ITS) (8-OCT-1986)           
   PAV=  3422.0  PSIA   WCT=0.175 GOR=     1.13 MSCF/STB WGR=   0.1872 STB/MSCF   
 1                             **********************************************************************  28
   WELLS    AT   280.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  14     8 OCT 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  14     8 OCT 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -2087,41 +2088,41 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1 11100
- TS     14 89  0
-                NX     17 70  0
+ SR      1  0  0
+ TS     14 94100
+                NX     17 33  0
                                WC     36  0  0
-                               LMRS   36  7  0
+                               LMRS   36  0  0
                                CONV   36  0  0
                                LMJC   19  0  0
-                               LXX    19 52  0
+                               LXX    19 23  0
                                               WGIN   19  0  0
                                               RGIN   19  0  0
-                                              GINV   19 11  0
-                                                             GINV   19 11  0
+                                              GINV   19  7  0
+                                                             GINV   19  7  0
                                               WRES   19  0  0
                                               RRES   19  0  0
-                                              ITER   19 41  0
-                                                             NORM   97  0  0
-                                                             SRCH   78 37  0
+                                              ITER   19 17  0
+                                                             NORM   97  3  0
+                                                             SRCH   78 10  0
                                                              WADX  156  0  0
-                                                             ORTH   78  4  0
+                                                             ORTH   78  3  0
                                                              UPDA   78  0  0
                                               WSOL   19  0  0
-                               XUIT   19  8  0
-                               LC     19  4  0
- WWX    14  0  0
+                               XUIT   19  0  0
+                               LC     19 10  0
+ WWX    14  3  0
  XW     14  0  0
 1                             **********************************************************************  29
   SIMULATE AT   280.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  14     8 OCT 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  14     8 OCT 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   18 TIME=  300.00  DAYS ( +20.0  DAYS REPT  1 ITS) (28-OCT-1986)          
   PAV=  3406.4  PSIA   WCT=0.182 GOR=     1.13 MSCF/STB WGR=   0.1972 STB/MSCF   
 1                             **********************************************************************  30
   WELLS    AT   300.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  15    28 OCT 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  15    28 OCT 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -2192,34 +2193,34 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     :  LAYER :          5:    :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
     ================================================================================================================================
  =======================================================
- TIMING REPORTS AT CPU=     0 SECS - ELAPSED=     1 SECS
+ TIMING REPORTS AT CPU=     1 SECS - ELAPSED=     1 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1 11100
- TS     15 89  0
-                NX     18 70  0
-                               WC     38  0  0
-                               LMRS   38  7  0
+ SR      1  0  0
+ TS     15 94100
+                NX     18 35  0
+                               WC     38  3  0
+                               LMRS   38  0  0
                                CONV   38  0  0
                                LMJC   20  0  0
-                               LXX    20 52  0
+                               LXX    20 22  0
                                               WGIN   20  0  0
                                               RGIN   20  0  0
-                                              GINV   20 11  0
-                                                             GINV   20 11  0
+                                              GINV   20  6  0
+                                                             GINV   20  6  0
                                               WRES   20  0  0
                                               RRES   20  0  0
-                                              ITER   20 41  0
-                                                             NORM  102  0  0
-                                                             SRCH   82 37  0
+                                              ITER   20 16  0
+                                                             NORM  102  3  0
+                                                             SRCH   82 10  0
                                                              WADX  164  0  0
-                                                             ORTH   82  4  0
+                                                             ORTH   82  3  0
                                                              UPDA   82  0  0
                                               WSOL   20  0  0
-                               XUIT   20  8  0
-                               LC     20  4  0
- WWX    15  0  0
+                               XUIT   20  0  0
+                               LC     20  9  0
+ WWX    15  3  0
  XW     15  0  0
     69 READING GCONPROD
 
@@ -2231,14 +2232,14 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     70 READING TSTEP   
 1                             **********************************************************************  31
   SIMULATE AT   300.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  15    28 OCT 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  15    28 OCT 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   19 TIME=  320.00  DAYS ( +20.0  DAYS REPT  1 ITS) (17-NOV-1986)          
   PAV=  3390.5  PSIA   WCT=0.189 GOR=     1.13 MSCF/STB WGR=   0.2062 STB/MSCF   
 1                             **********************************************************************  32
   WELLS    AT   320.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  16    17 NOV 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  16    17 NOV 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -2309,45 +2310,45 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     :  LAYER :          5:    :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
     ================================================================================================================================
  =======================================================
- TIMING REPORTS AT CPU=     0 SECS - ELAPSED=     1 SECS
+ TIMING REPORTS AT CPU=     1 SECS - ELAPSED=     1 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1 10100
- TS     16 86  0
-                NX     19 69  0
-                               WC     40  0  0
-                               LMRS   40  7  0
+ SR      1  0  0
+ TS     16 94100
+                NX     19 33  0
+                               WC     40  3  0
+                               LMRS   40  0  0
                                CONV   40  0  0
                                LMJC   21  0  0
-                               LXX    21 48  0
+                               LXX    21 21  0
                                               WGIN   21  0  0
                                               RGIN   21  0  0
-                                              GINV   21 10  0
-                                                             GINV   21 10  0
+                                              GINV   21  6  0
+                                                             GINV   21  6  0
                                               WRES   21  0  0
                                               RRES   21  0  0
-                                              ITER   21 38  0
-                                                             NORM  108  0  0
-                                                             SRCH   87 34  0
+                                              ITER   21 15  0
+                                                             NORM  108  3  0
+                                                             SRCH   87  9  0
                                                              WADX  174  0  0
                                                              ORTH   87  3  0
                                                              UPDA   87  0  0
                                               WSOL   21  0  0
-                               XUIT   21  7  0
-                               LC     21  7  0
- WWX    16  0  0
+                               XUIT   21  0  0
+                               LC     21  9  0
+ WWX    16  3  0
  XW     16  0  0
 1                             **********************************************************************  33
   SIMULATE AT   320.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  16    17 NOV 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  16    17 NOV 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   20 TIME=  340.00  DAYS ( +20.0  DAYS REPT  1 ITS) (7-DEC-1986)           
   PAV=  3374.4  PSIA   WCT=0.195 GOR=     1.13 MSCF/STB WGR=   0.2141 STB/MSCF   
 1                             **********************************************************************  34
   WELLS    AT   340.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  17     7 DEC 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  17     7 DEC 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -2418,45 +2419,45 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     :  LAYER :          5:    :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
     ================================================================================================================================
  =======================================================
- TIMING REPORTS AT CPU=     0 SECS - ELAPSED=     1 SECS
+ TIMING REPORTS AT CPU=     1 SECS - ELAPSED=     1 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1 10100
- TS     17 87  0
-                NX     20 71  0
-                               WC     42  0  0
-                               LMRS   42  6  0
+ SR      1  0  0
+ TS     17 94100
+                NX     20 35  0
+                               WC     42  3  0
+                               LMRS   42  0  0
                                CONV   42  0  0
                                LMJC   22  0  0
-                               LXX    22 48  0
+                               LXX    22 21  0
                                               WGIN   22  0  0
                                               RGIN   22  0  0
-                                              GINV   22 10  0
-                                                             GINV   22 10  0
+                                              GINV   22  6  0
+                                                             GINV   22  6  0
                                               WRES   22  0  0
                                               RRES   22  0  0
-                                              ITER   22 38  0
-                                                             NORM  114  0  0
-                                                             SRCH   92 35  0
+                                              ITER   22 15  0
+                                                             NORM  114  3  0
+                                                             SRCH   92  9  0
                                                              WADX  184  0  0
                                                              ORTH   92  3  0
                                                              UPDA   92  0  0
                                               WSOL   22  0  0
-                               XUIT   22  7  0
-                               LC     22 10  0
- WWX    17  0  0
+                               XUIT   22  0  0
+                               LC     22 11  0
+ WWX    17  3  0
  XW     17  0  0
 1                             **********************************************************************  35
   SIMULATE AT   340.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  17     7 DEC 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  17     7 DEC 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   21 TIME=  360.00  DAYS ( +20.0  DAYS REPT  1 ITS) (27-DEC-1986)          
   PAV=  3358.1  PSIA   WCT=0.200 GOR=     1.13 MSCF/STB WGR=   0.2209 STB/MSCF   
 1                             **********************************************************************  36
   WELLS    AT   360.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  18    27 DEC 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  18    27 DEC 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -2531,41 +2532,41 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  9100
- TS     18 88  0
-                NX     21 70  0
-                               WC     44  0  0
-                               LMRS   44  6  0
+ SR      1  0  0
+ TS     18 94100
+                NX     21 36  0
+                               WC     44  3  0
+                               LMRS   44  0  0
                                CONV   44  0  0
                                LMJC   23  0  0
-                               LXX    23 48  0
+                               LXX    23 23  0
                                               WGIN   23  0  0
                                               RGIN   23  0  0
-                                              GINV   23  9  0
-                                                             GINV   23  9  0
+                                              GINV   23  6  0
+                                                             GINV   23  6  0
                                               WRES   23  0  0
                                               RRES   23  0  0
-                                              ITER   23 39  0
-                                                             NORM  120  0  0
-                                                             SRCH   97 36  0
+                                              ITER   23 17  0
+                                                             NORM  120  3  0
+                                                             SRCH   97 11  0
                                                              WADX  194  0  0
                                                              ORTH   97  3  0
                                                              UPDA   97  0  0
                                               WSOL   23  0  0
-                               XUIT   23  6  0
-                               LC     23  9  0
- WWX    18  0  0
+                               XUIT   23  0  0
+                               LC     23 11  0
+ WWX    18  3  0
  XW     18  0  0
 1                             **********************************************************************  37
   SIMULATE AT   360.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  18    27 DEC 1986   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  18    27 DEC 1986   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   22 TIME=  380.00  DAYS ( +20.0  DAYS REPT  1 ITS) (16-JAN-1987)          
   PAV=  3341.7  PSIA   WCT=0.204 GOR=     1.13 MSCF/STB WGR=   0.2266 STB/MSCF   
 1                             **********************************************************************  38
   WELLS    AT   380.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  19    16 JAN 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  19    16 JAN 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -2640,41 +2641,41 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  9100
- TS     19 88  0
-                NX     22 71  0
-                               WC     46  0  0
-                               LMRS   46  6  0
+ SR      1  0  0
+ TS     19 95100
+                NX     22 38  0
+                               WC     46  3  0
+                               LMRS   46  0  0
                                CONV   46  0  0
                                LMJC   24  0  0
-                               LXX    24 47  0
+                               LXX    24 22  0
                                               WGIN   24  0  0
                                               RGIN   24  0  0
-                                              GINV   24  9  0
-                                                             GINV   24  9  0
+                                              GINV   24  6  0
+                                                             GINV   24  6  0
                                               WRES   24  0  0
                                               RRES   24  0  0
-                                              ITER   24 38  0
-                                                             NORM  126  0  0
-                                                             SRCH  102 35  0
+                                              ITER   24 17  0
+                                                             NORM  126  3  0
+                                                             SRCH  102 11  0
                                                              WADX  204  0  0
                                                              ORTH  102  3  0
                                                              UPDA  102  0  0
                                               WSOL   24  0  0
-                               XUIT   24  6  0
-                               LC     24 12  0
- WWX    19  0  0
+                               XUIT   24  0  0
+                               LC     24 13  0
+ WWX    19  3  0
  XW     19  0  0
 1                             **********************************************************************  39
   SIMULATE AT   380.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  19    16 JAN 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  19    16 JAN 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   23 TIME=  400.00  DAYS ( +20.0  DAYS REPT  1 ITS) (5-FEB-1987)           
   PAV=  3325.3  PSIA   WCT=0.207 GOR=     1.13 MSCF/STB WGR=   0.2315 STB/MSCF   
 1                             **********************************************************************  40
   WELLS    AT   400.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  20     5 FEB 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  20     5 FEB 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -2749,30 +2750,30 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  8100
- TS     20 89  0
-                NX     23 71  0
-                               WC     48  0  0
-                               LMRS   48  5  0
+ SR      1  0  0
+ TS     20 95100
+                NX     23 40  0
+                               WC     48  3  0
+                               LMRS   48  0  0
                                CONV   48  0  0
                                LMJC   25  0  0
-                               LXX    25 48  0
+                               LXX    25 23  0
                                               WGIN   25  0  0
                                               RGIN   25  0  0
-                                              GINV   25  9  0
-                                                             GINV   25  9  0
+                                              GINV   25  5  0
+                                                             GINV   25  5  0
                                               WRES   25  0  0
                                               RRES   25  0  0
-                                              ITER   25 40  0
-                                                             NORM  131  0  0
-                                                             SRCH  106 37  0
+                                              ITER   25 18  0
+                                                             NORM  131  3  0
+                                                             SRCH  106 13  0
                                                              WADX  212  0  0
                                                              ORTH  106  3  0
                                                              UPDA  106  0  0
                                               WSOL   25  0  0
-                               XUIT   25  6  0
-                               LC     25 12  0
- WWX    20  0  0
+                               XUIT   25  0  0
+                               LC     25 15  0
+ WWX    20  2  0
  XW     20  0  0
     71 READING GCONPROD
 
@@ -2784,14 +2785,14 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     72 READING TSTEP   
 1                             **********************************************************************  41
   SIMULATE AT   400.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  20     5 FEB 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  20     5 FEB 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   24 TIME=  420.00  DAYS ( +20.0  DAYS REPT  1 ITS) (25-FEB-1987)          
   PAV=  3308.7  PSIA   WCT=0.210 GOR=     1.13 MSCF/STB WGR=   0.2357 STB/MSCF   
 1                             **********************************************************************  42
   WELLS    AT   420.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  21    25 FEB 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  21    25 FEB 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -2862,45 +2863,45 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     :  LAYER :          5:    :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
     ================================================================================================================================
  =======================================================
- TIMING REPORTS AT CPU=     1 SECS - ELAPSED=     2 SECS
+ TIMING REPORTS AT CPU=     1 SECS - ELAPSED=     1 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  8 50
- TS     21 89 50
-                NX     24 73 50
-                               WC     50  0  0
-                               LMRS   50  5  0
+ SR      1  0  0
+ TS     21 93100
+                NX     24 42  0
+                               WC     50  2  0
+                               LMRS   50  0  0
                                CONV   50  0  0
                                LMJC   26  0  0
-                               LXX    26 51 50
+                               LXX    26 24  0
                                               WGIN   26  0  0
                                               RGIN   26  0  0
-                                              GINV   26 11  0
-                                                             GINV   26 11  0
+                                              GINV   26  5  0
+                                                             GINV   26  5  0
                                               WRES   26  0  0
                                               RRES   26  0  0
-                                              ITER   26 40 50
-                                                             NORM  137  0  0
-                                                             SRCH  111 35  0
+                                              ITER   26 19  0
+                                                             NORM  137  2  0
+                                                             SRCH  111 14  0
                                                              WADX  222  0  0
-                                                             ORTH  111  5  0
-                                                             UPDA  111  0 50
+                                                             ORTH  111  2  0
+                                                             UPDA  111  0  0
                                               WSOL   26  0  0
-                               XUIT   26  6  0
-                               LC     26 11  0
- WWX    21  0  0
+                               XUIT   26  0  0
+                               LC     26 16  0
+ WWX    21  2  0
  XW     21  0  0
 1                             **********************************************************************  43
   SIMULATE AT   420.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  21    25 FEB 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  21    25 FEB 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   25 TIME=  440.00  DAYS ( +20.0  DAYS REPT  1 ITS) (17-MAR-1987)          
   PAV=  3292.1  PSIA   WCT=0.213 GOR=     1.13 MSCF/STB WGR=   0.2393 STB/MSCF   
 1                             **********************************************************************  44
   WELLS    AT   440.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  22    17 MAR 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  22    17 MAR 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -2971,45 +2972,45 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     :  LAYER :          5:    :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
     ================================================================================================================================
  =======================================================
- TIMING REPORTS AT CPU=     1 SECS - ELAPSED=     2 SECS
+ TIMING REPORTS AT CPU=     1 SECS - ELAPSED=     1 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  8 50
- TS     22 90 50
-                NX     25 72 50
-                               WC     52  0  0
-                               LMRS   52  5  0
+ SR      1  0  0
+ TS     22 93100
+                NX     25 44  0
+                               WC     52  2  0
+                               LMRS   52  0  0
                                CONV   52  0  0
                                LMJC   27  0  0
-                               LXX    27 51 50
+                               LXX    27 25  0
                                               WGIN   27  0  0
                                               RGIN   27  0  0
-                                              GINV   27 10  0
-                                                             GINV   27 10  0
+                                              GINV   27  5  0
+                                                             GINV   27  5  0
                                               WRES   27  0  0
                                               RRES   27  0  0
-                                              ITER   27 41 50
-                                                             NORM  143  0  0
-                                                             SRCH  116 36  0
+                                              ITER   27 21  0
+                                                             NORM  143  2  0
+                                                             SRCH  116 14  0
                                                              WADX  232  0  0
-                                                             ORTH  116  5  0
-                                                             UPDA  116  0 50
+                                                             ORTH  116  2  0
+                                                             UPDA  116  2  0
                                               WSOL   27  0  0
-                               XUIT   27  5  0
-                               LC     27 11  0
- WWX    22  0  0
+                               XUIT   27  0  0
+                               LC     27 16  0
+ WWX    22  2  0
  XW     22  0  0
 1                             **********************************************************************  45
   SIMULATE AT   440.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  22    17 MAR 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  22    17 MAR 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   26 TIME=  460.00  DAYS ( +20.0  DAYS REPT  2 ITS) (6-APR-1987)           
   PAV=  3275.5  PSIA   WCT=0.215 GOR=     1.13 MSCF/STB WGR=   0.2424 STB/MSCF   
 1                             **********************************************************************  46
   WELLS    AT   460.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  23     6 APR 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  23     6 APR 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -3080,45 +3081,45 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     :  LAYER :          5:    :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
     ================================================================================================================================
  =======================================================
- TIMING REPORTS AT CPU=     1 SECS - ELAPSED=     2 SECS
+ TIMING REPORTS AT CPU=     1 SECS - ELAPSED=     1 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  7 50
- TS     23 91 50
-                NX     26 70 50
-                               WC     55  0  0
-                               LMRS   55  4  0
+ SR      1  0  0
+ TS     23 94100
+                NX     26 46  0
+                               WC     55  2  0
+                               LMRS   55  0  0
                                CONV   55  0  0
                                LMJC   29  0  0
-                               LXX    29 49 50
+                               LXX    29 27  0
                                               WGIN   29  0  0
                                               RGIN   29  0  0
-                                              GINV   29 12  0
-                                                             GINV   29 12  0
+                                              GINV   29  4  0
+                                                             GINV   29  4  0
                                               WRES   29  0  0
                                               RRES   29  0  0
-                                              ITER   29 37 50
-                                                             NORM  151  0  0
-                                                             SRCH  122 32  0
+                                              ITER   29 22  0
+                                                             NORM  151  2  0
+                                                             SRCH  122 15  0
                                                              WADX  244  0  0
-                                                             ORTH  122  5  0
-                                                             UPDA  122  0 50
+                                                             ORTH  122  2  0
+                                                             UPDA  122  2  0
                                               WSOL   29  0  0
-                               XUIT   29  5  0
-                               LC     29 12  0
- WWX    23  0  0
+                               XUIT   29  0  0
+                               LC     29 17  0
+ WWX    23  2  0
  XW     23  0  0
 1                             **********************************************************************  47
   SIMULATE AT   460.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  23     6 APR 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  23     6 APR 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   27 TIME=  480.00  DAYS ( +20.0  DAYS REPT  1 ITS) (26-APR-1987)          
   PAV=  3258.8  PSIA   WCT=0.217 GOR=     1.13 MSCF/STB WGR=   0.2451 STB/MSCF   
 1                             **********************************************************************  48
   WELLS    AT   480.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  24    26 APR 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  24    26 APR 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -3189,45 +3190,45 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     :  LAYER :          5:    :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
     ================================================================================================================================
  =======================================================
- TIMING REPORTS AT CPU=     1 SECS - ELAPSED=     2 SECS
+ TIMING REPORTS AT CPU=     1 SECS - ELAPSED=     1 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  7 50
- TS     24 91 50
-                NX     27 70 50
-                               WC     57  0  0
-                               LMRS   57  4  0
+ SR      1  0  0
+ TS     24 92100
+                NX     27 46  0
+                               WC     57  2  0
+                               LMRS   57  0  0
                                CONV   57  0  0
                                LMJC   30  0  0
-                               LXX    30 50 50
+                               LXX    30 28  0
                                               WGIN   30  0  0
                                               RGIN   30  0  0
-                                              GINV   30 11  0
-                                                             GINV   30 11  0
+                                              GINV   30  4  0
+                                                             GINV   30  4  0
                                               WRES   30  0  0
                                               RRES   30  0  0
-                                              ITER   30 38 50
-                                                             NORM  157  0  0
-                                                             SRCH  127 34  0
+                                              ITER   30 23  0
+                                                             NORM  157  2  0
+                                                             SRCH  127 17  0
                                                              WADX  254  0  0
-                                                             ORTH  127  5  0
-                                                             UPDA  127  0 50
+                                                             ORTH  127  2  0
+                                                             UPDA  127  2  0
                                               WSOL   30  0  0
-                               XUIT   30  5  0
-                               LC     30 11  0
- WWX    24  0  0
+                               XUIT   30  0  0
+                               LC     30 16  0
+ WWX    24  4  0
  XW     24  0  0
 1                             **********************************************************************  49
   SIMULATE AT   480.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  24    26 APR 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  24    26 APR 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   28 TIME=  500.00  DAYS ( +20.0  DAYS REPT  2 ITS) (16-MAY-1987)          
   PAV=  3242.2  PSIA   WCT=0.219 GOR=     1.13 MSCF/STB WGR=   0.2475 STB/MSCF   
 1                             **********************************************************************  50
   WELLS    AT   500.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  25    16 MAY 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  25    16 MAY 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -3298,34 +3299,34 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     :  LAYER :          5:    :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
     ================================================================================================================================
  =======================================================
- TIMING REPORTS AT CPU=     1 SECS - ELAPSED=     2 SECS
+ TIMING REPORTS AT CPU=     1 SECS - ELAPSED=     1 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  6 50
- TS     25 92 50
-                NX     28 72 50
-                               WC     60  0  0
-                               LMRS   60  4  0
+ SR      1  0  0
+ TS     25 92100
+                NX     28 47  0
+                               WC     60  2  0
+                               LMRS   60  0  0
                                CONV   60  0  0
                                LMJC   32  0  0
-                               LXX    32 49 50
+                               LXX    32 28  0
                                               WGIN   32  0  0
                                               RGIN   32  0  0
-                                              GINV   32 11  0
-                                                             GINV   32 11  0
+                                              GINV   32  4  0
+                                                             GINV   32  4  0
                                               WRES   32  0  0
                                               RRES   32  0  0
-                                              ITER   32 38 50
-                                                             NORM  166  0  0
-                                                             SRCH  134 34  0
+                                              ITER   32 24  0
+                                                             NORM  166  2  0
+                                                             SRCH  134 16  0
                                                              WADX  268  0  0
                                                              ORTH  134  4  0
-                                                             UPDA  134  0 50
+                                                             UPDA  134  2  0
                                               WSOL   32  0  0
-                               XUIT   32  7  0
-                               LC     32 13  0
- WWX    25  0  0
+                               XUIT   32  0  0
+                               LC     32 17  0
+ WWX    25  4  0
  XW     25  0  0
     73 READING GCONPROD
 
@@ -3343,7 +3344,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     74 READING TSTEP   
 1                             **********************************************************************  51
   SIMULATE AT   500.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  25    16 MAY 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  25    16 MAY 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  @--MESSAGE  AT TIME      500.0   DAYS    (16-MAY-1987):
@@ -3356,7 +3357,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
   PAV=  3225.7  PSIA   WCT=0.220 GOR=     1.13 MSCF/STB WGR=   0.2495 STB/MSCF   
 1                             **********************************************************************  52
   WELLS    AT   520.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  26     5 JUN 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  26     5 JUN 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -3431,41 +3432,41 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  6 50
- TS     26 92 50
-                NX     29 74 50
-                               WC     64  0  0
-                               LMRS   64  4  0
+ SR      1  0  0
+ TS     26 93100
+                NX     29 51 50
+                               WC     64  2  0
+                               LMRS   64  0  0
                                CONV   64  0  0
-                               LMJC   35  0  0
-                               LXX    35 48 50
+                               LMJC   35  0 50
+                               LXX    35 31  0
                                               WGIN   35  0  0
                                               RGIN   35  0  0
-                                              GINV   35 10  0
-                                                             GINV   35 10  0
+                                              GINV   35  6  0
+                                                             GINV   35  6  0
                                               WRES   35  0  0
                                               RRES   35  0  0
-                                              ITER   35 38 50
-                                                             NORM  180  0  0
-                                                             SRCH  145 32  0
+                                              ITER   35 26  0
+                                                             NORM  180  2  0
+                                                             SRCH  145 18  0
                                                              WADX  290  0  0
                                                              ORTH  145  4  0
-                                                             UPDA  145  0 50
+                                                             UPDA  145  2  0
                                               WSOL   35  0  0
-                               XUIT   35  6  0
-                               LC     35 16  0
- WWX    26  0  0
+                               XUIT   35  0  0
+                               LC     35 18  0
+ WWX    26  4  0
  XW     26  0  0
 1                             **********************************************************************  53
   SIMULATE AT   520.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  26     5 JUN 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  26     5 JUN 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   30 TIME=  540.00  DAYS ( +20.0  DAYS REPT  2 ITS) (25-JUN-1987)          
   PAV=  3209.6  PSIA   WCT=0.221 GOR=     1.13 MSCF/STB WGR=   0.2512 STB/MSCF   
 1                             **********************************************************************  54
   WELLS    AT   540.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  27    25 JUN 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  27    25 JUN 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -3540,41 +3541,41 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  6 50
- TS     27 93 50
-                NX     30 74 50
-                               WC     67  0  0
-                               LMRS   67  4  0
+ SR      1  0  0
+ TS     27 93100
+                NX     30 53 50
+                               WC     67  2  0
+                               LMRS   67  0  0
                                CONV   67  0  0
-                               LMJC   37  0  0
-                               LXX    37 47 50
+                               LMJC   37  0 50
+                               LXX    37 34  0
                                               WGIN   37  0  0
                                               RGIN   37  0  0
-                                              GINV   37 11  0
-                                                             GINV   37 11  0
+                                              GINV   37  5  0
+                                                             GINV   37  5  0
                                               WRES   37  0  0
                                               RRES   37  0  0
-                                              ITER   37 36 50
-                                                             NORM  192  0  0
-                                                             SRCH  155 30  0
+                                              ITER   37 28  0
+                                                             NORM  192  2  0
+                                                             SRCH  155 20  0
                                                              WADX  310  0  0
-                                                             ORTH  155  4  0
-                                                             UPDA  155  0 50
+                                                             ORTH  155  3  0
+                                                             UPDA  155  3  0
                                               WSOL   37  0  0
-                               XUIT   37  6  0
+                               XUIT   37  0  0
                                LC     37 17  0
- WWX    27  0  0
+ WWX    27  3  0
  XW     27  0  0
 1                             **********************************************************************  55
   SIMULATE AT   540.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  27    25 JUN 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  27    25 JUN 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   31 TIME=  560.00  DAYS ( +20.0  DAYS REPT  2 ITS) (15-JLY-1987)          
   PAV=  3193.8  PSIA   WCT=0.222 GOR=     1.13 MSCF/STB WGR=   0.2526 STB/MSCF   
 1                             **********************************************************************  56
   WELLS    AT   560.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  28    15 JLY 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  28    15 JLY 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -3649,41 +3650,41 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  5 50
- TS     28 93 50
-                NX     31 75 50
-                               WC     70  0  0
-                               LMRS   70  3  0
+ SR      1  0  0
+ TS     28 93100
+                NX     31 55 50
+                               WC     70  3  0
+                               LMRS   70  0  0
                                CONV   70  0  0
-                               LMJC   39  0  0
-                               LXX    39 49 50
+                               LMJC   39  0 50
+                               LXX    39 34  0
                                               WGIN   39  0  0
                                               RGIN   39  0  0
-                                              GINV   39 12  0
-                                                             GINV   39 12  0
+                                              GINV   39  5  0
+                                                             GINV   39  5  0
                                               WRES   39  0  0
                                               RRES   39  0  0
-                                              ITER   39 37 50
-                                                             NORM  204  0  0
-                                                             SRCH  165 31  0
+                                              ITER   39 28  0
+                                                             NORM  204  2  0
+                                                             SRCH  165 20  0
                                                              WADX  330  0  0
                                                              ORTH  165  3  0
-                                                             UPDA  165  0 50
+                                                             UPDA  165  3  0
                                               WSOL   39  0  0
-                               XUIT   39  5  0
+                               XUIT   39  0  0
                                LC     39 18  0
- WWX    28  0  0
+ WWX    28  3  0
  XW     28  0  0
 1                             **********************************************************************  57
   SIMULATE AT   560.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  28    15 JLY 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  28    15 JLY 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   32 TIME=  580.00  DAYS ( +20.0  DAYS REPT  2 ITS) (4-AUG-1987)           
   PAV=  3178.3  PSIA   WCT=0.223 GOR=     1.13 MSCF/STB WGR=   0.2540 STB/MSCF   
 1                             **********************************************************************  58
   WELLS    AT   580.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  29     4 AUG 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  29     4 AUG 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -3758,41 +3759,41 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  5 50
- TS     29 93 50
-                NX     32 76 50
-                               WC     73  0  0
-                               LMRS   73  3  0
+ SR      1  0  0
+ TS     29 94100
+                NX     32 57 50
+                               WC     73  3  0
+                               LMRS   73  0  0
                                CONV   73  0  0
-                               LMJC   41  0  0
-                               LXX    41 51 50
+                               LMJC   41  0 50
+                               LXX    41 36  0
                                               WGIN   41  0  0
                                               RGIN   41  0  0
-                                              GINV   41 13  0
-                                                             GINV   41 13  0
+                                              GINV   41  5  0
+                                                             GINV   41  5  0
                                               WRES   41  0  0
                                               RRES   41  0  0
-                                              ITER   41 37 50
-                                                             NORM  216  0  0
-                                                             SRCH  175 32  0
+                                              ITER   41 31  0
+                                                             NORM  216  2  0
+                                                             SRCH  175 21  0
                                                              WADX  350  0  0
                                                              ORTH  175  3  0
-                                                             UPDA  175  0 50
+                                                             UPDA  175  5  0
                                               WSOL   41  0  0
-                               XUIT   41  5  0
-                               LC     41 17  0
- WWX    29  0  0
+                               XUIT   41  0  0
+                               LC     41 18  0
+ WWX    29  3  0
  XW     29  0  0
 1                             **********************************************************************  59
   SIMULATE AT   580.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  29     4 AUG 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  29     4 AUG 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   33 TIME=  600.00  DAYS ( +20.0  DAYS REPT  2 ITS) (24-AUG-1987)          
   PAV=  3163.1  PSIA   WCT=0.224 GOR=     1.13 MSCF/STB WGR=   0.2553 STB/MSCF   
 1                             **********************************************************************  60
   WELLS    AT   600.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  30    24 AUG 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  30    24 AUG 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -3867,30 +3868,30 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  5 50
- TS     30 94 50
-                NX     33 77 50
-                               WC     76  0  0
-                               LMRS   76  3  0
+ SR      1  0  0
+ TS     30 94100
+                NX     33 59 50
+                               WC     76  3  0
+                               LMRS   76  0  0
                                CONV   76  0  0
-                               LMJC   43  0  0
-                               LXX    43 53 50
+                               LMJC   43  0 50
+                               LXX    43 37  0
                                               WGIN   43  0  0
                                               RGIN   43  0  0
-                                              GINV   43 16  0
-                                                             GINV   43 16  0
+                                              GINV   43  5  0
+                                                             GINV   43  5  0
                                               WRES   43  0  0
                                               RRES   43  0  0
-                                              ITER   43 37 50
-                                                             NORM  228  0  0
-                                                             SRCH  185 32  0
+                                              ITER   43 32  0
+                                                             NORM  228  2  0
+                                                             SRCH  185 23  0
                                                              WADX  370  0  0
                                                              ORTH  185  3  0
-                                                             UPDA  185  0 50
+                                                             UPDA  185  5  0
                                               WSOL   43  0  0
-                               XUIT   43  5  0
-                               LC     43 16  0
- WWX    30  0  0
+                               XUIT   43  2  0
+                               LC     43 17  0
+ WWX    30  3  0
  XW     30  0  0
     75 READING GCONPROD
 
@@ -3908,14 +3909,14 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     76 READING TSTEP   
 1                             **********************************************************************  61
   SIMULATE AT   600.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  30    24 AUG 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  30    24 AUG 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   34 TIME=  620.00  DAYS ( +20.0  DAYS REPT  2 ITS) (13-SEP-1987)          
   PAV=  3148.0  PSIA   WCT=0.225 GOR=     1.13 MSCF/STB WGR=   0.2567 STB/MSCF   
 1                             **********************************************************************  62
   WELLS    AT   620.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  31    13 SEP 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  31    13 SEP 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -3990,41 +3991,41 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  5 50
- TS     31 92 50
-                NX     34 77 50
-                               WC     79  0  0
-                               LMRS   79  3  0
+ SR      1  0  0
+ TS     31 94100
+                NX     34 60 50
+                               WC     79  3  0
+                               LMRS   79  0  0
                                CONV   79  0  0
-                               LMJC   45  0  0
-                               LXX    45 54 50
+                               LMJC   45  0 50
+                               LXX    45 39  0
                                               WGIN   45  0  0
                                               RGIN   45  0  0
-                                              GINV   45 15  0
-                                                             GINV   45 15  0
+                                              GINV   45  5  0
+                                                             GINV   45  5  0
                                               WRES   45  0  0
                                               RRES   45  0  0
-                                              ITER   45 38 50
-                                                             NORM  237  0  0
-                                                             SRCH  192 34  0
+                                              ITER   45 34  0
+                                                             NORM  237  3  0
+                                                             SRCH  192 24  0
                                                              WADX  384  0  0
                                                              ORTH  192  3  0
-                                                             UPDA  192  0 50
+                                                             UPDA  192  4  0
                                               WSOL   45  0  0
-                               XUIT   45  5  0
-                               LC     45 15  0
- WWX    31  0  0
+                               XUIT   45  2  0
+                               LC     45 16  0
+ WWX    31  3  0
  XW     31  0  0
 1                             **********************************************************************  63
   SIMULATE AT   620.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  31    13 SEP 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  31    13 SEP 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   35 TIME=  640.00  DAYS ( +20.0  DAYS REPT  1 ITS) (3-OCT-1987)           
   PAV=  3132.9  PSIA   WCT=0.226 GOR=     1.13 MSCF/STB WGR=   0.2579 STB/MSCF   
 1                             **********************************************************************  64
   WELLS    AT   640.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  32     3 OCT 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  32     3 OCT 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -4099,41 +4100,41 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  4 50
- TS     32 93 50
-                NX     35 76 50
-                               WC     81  0  0
-                               LMRS   81  3  0
+ SR      1  0  0
+ TS     32 94100
+                NX     35 61 50
+                               WC     81  3  0
+                               LMRS   81  0  0
                                CONV   81  0  0
-                               LMJC   46  0  0
-                               LXX    46 52 50
+                               LMJC   46  0 50
+                               LXX    46 39  0
                                               WGIN   46  0  0
                                               RGIN   46  0  0
-                                              GINV   46 15  0
-                                                             GINV   46 15  0
+                                              GINV   46  6  0
+                                                             GINV   46  6  0
                                               WRES   46  0  0
                                               RRES   46  0  0
-                                              ITER   46 37 50
-                                                             NORM  243  0  0
-                                                             SRCH  197 33  0
+                                              ITER   46 33  0
+                                                             NORM  243  3  0
+                                                             SRCH  197 23  0
                                                              WADX  394  0  0
                                                              ORTH  197  3  0
-                                                             UPDA  197  0 50
+                                                             UPDA  197  4  0
                                               WSOL   46  0  0
-                               XUIT   46  6  0
-                               LC     46 15  0
- WWX    32  0  0
+                               XUIT   46  1  0
+                               LC     46 17  0
+ WWX    32  3  0
  XW     32  0  0
 1                             **********************************************************************  65
   SIMULATE AT   640.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  32     3 OCT 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  32     3 OCT 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   36 TIME=  660.00  DAYS ( +20.0  DAYS REPT  1 ITS) (23-OCT-1987)          
   PAV=  3117.9  PSIA   WCT=0.226 GOR=     1.13 MSCF/STB WGR=   0.2591 STB/MSCF   
 1                             **********************************************************************  66
   WELLS    AT   660.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  33    23 OCT 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  33    23 OCT 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -4208,41 +4209,41 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  4 50
- TS     33 93 50
-                NX     36 77 50
-                               WC     83  0  0
-                               LMRS   83  4  0
+ SR      1  0  0
+ TS     33 94100
+                NX     36 61 50
+                               WC     83  3  0
+                               LMRS   83  0  0
                                CONV   83  0  0
-                               LMJC   47  0  0
-                               LXX    47 52 50
+                               LMJC   47  0 50
+                               LXX    47 40  0
                                               WGIN   47  0  0
                                               RGIN   47  0  0
-                                              GINV   47 16  0
-                                                             GINV   47 16  0
+                                              GINV   47  7  0
+                                                             GINV   47  7  0
                                               WRES   47  0  0
                                               RRES   47  0  0
-                                              ITER   47 36 50
-                                                             NORM  248  0  0
-                                                             SRCH  201 32  0
+                                              ITER   47 32  0
+                                                             NORM  248  3  0
+                                                             SRCH  201 23  0
                                                              WADX  402  0  0
                                                              ORTH  201  3  0
-                                                             UPDA  201  0 50
+                                                             UPDA  201  4  0
                                               WSOL   47  0  0
-                               XUIT   47  6  0
-                               LC     47 15  0
- WWX    33  0  0
+                               XUIT   47  1  0
+                               LC     47 17  0
+ WWX    33  3  0
  XW     33  0  0
 1                             **********************************************************************  67
   SIMULATE AT   660.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  33    23 OCT 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  33    23 OCT 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   37 TIME=  680.00  DAYS ( +20.0  DAYS REPT  1 ITS) (12-NOV-1987)          
   PAV=  3102.8  PSIA   WCT=0.227 GOR=     1.13 MSCF/STB WGR=   0.2602 STB/MSCF   
 1                             **********************************************************************  68
   WELLS    AT   680.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  34    12 NOV 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  34    12 NOV 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -4317,41 +4318,41 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  4 50
- TS     34 93 50
-                NX     37 77 50
-                               WC     85  0  0
-                               LMRS   85  4  0
+ SR      1  0  0
+ TS     34 93100
+                NX     37 61 50
+                               WC     85  3  0
+                               LMRS   85  0  0
                                CONV   85  0  0
-                               LMJC   48  0  0
-                               LXX    48 53 50
+                               LMJC   48  0 50
+                               LXX    48 39  0
                                               WGIN   48  0  0
                                               RGIN   48  0  0
-                                              GINV   48 16  0
-                                                             GINV   48 16  0
+                                              GINV   48  7  0
+                                                             GINV   48  7  0
                                               WRES   48  0  0
                                               RRES   48  0  0
-                                              ITER   48 37 50
-                                                             NORM  254  0  0
-                                                             SRCH  206 33  0
+                                              ITER   48 32  0
+                                                             NORM  254  3  0
+                                                             SRCH  206 22  0
                                                              WADX  412  0  0
                                                              ORTH  206  3  0
-                                                             UPDA  206  0 50
+                                                             UPDA  206  5  0
                                               WSOL   48  0  0
-                               XUIT   48  6  0
-                               LC     48 14  0
- WWX    34  0  0
+                               XUIT   48  1  0
+                               LC     48 18  0
+ WWX    34  3  0
  XW     34  0  0
 1                             **********************************************************************  69
   SIMULATE AT   680.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  34    12 NOV 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  34    12 NOV 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   38 TIME=  700.00  DAYS ( +20.0  DAYS REPT  1 ITS) (2-DEC-1987)           
   PAV=  3087.6  PSIA   WCT=0.228 GOR=     1.13 MSCF/STB WGR=   0.2613 STB/MSCF   
 1                             **********************************************************************  70
   WELLS    AT   700.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  35     2 DEC 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  35     2 DEC 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -4426,30 +4427,30 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  4 50
- TS     35 93 50
-                NX     38 78 50
-                               WC     87  0  0
-                               LMRS   87  4  0
+ SR      1  0  0
+ TS     35 93100
+                NX     38 62 50
+                               WC     87  3  0
+                               LMRS   87  0  0
                                CONV   87  0  0
-                               LMJC   49  0  0
-                               LXX    49 53 50
+                               LMJC   49  0 50
+                               LXX    49 41  0
                                               WGIN   49  0  0
                                               RGIN   49  0  0
-                                              GINV   49 17  0
-                                                             GINV   49 17  0
+                                              GINV   49  8  0
+                                                             GINV   49  8  0
                                               WRES   49  0  0
                                               RRES   49  0  0
-                                              ITER   49 36 50
-                                                             NORM  260  0  0
-                                                             SRCH  211 32  0
+                                              ITER   49 33  0
+                                                             NORM  260  3  0
+                                                             SRCH  211 21  0
                                                              WADX  422  0  0
-                                                             ORTH  211  3  0
-                                                             UPDA  211  0 50
+                                                             ORTH  211  4  0
+                                                             UPDA  211  5  0
                                               WSOL   49  0  0
-                               XUIT   49  7  0
-                               LC     49 14  0
- WWX    35  0  0
+                               XUIT   49  1  0
+                               LC     49 17  0
+ WWX    35  3  0
  XW     35  0  0
     77 READING GCONPROD
 
@@ -4467,14 +4468,14 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     78 READING TSTEP   
 1                             **********************************************************************  71
   SIMULATE AT   700.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  35     2 DEC 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  35     2 DEC 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   39 TIME=  720.00  DAYS ( +20.0  DAYS REPT  1 ITS) (22-DEC-1987)          
   PAV=  3072.5  PSIA   WCT=0.229 GOR=     1.13 MSCF/STB WGR=   0.2624 STB/MSCF   
 1                             **********************************************************************  72
   WELLS    AT   720.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  36    22 DEC 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  36    22 DEC 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -4549,41 +4550,41 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  4 50
- TS     36 93 50
-                NX     39 78 50
-                               WC     89  0  0
-                               LMRS   89  4  0
+ SR      1  0  0
+ TS     36 94100
+                NX     39 62 50
+                               WC     89  3  0
+                               LMRS   89  0  0
                                CONV   89  0  0
-                               LMJC   50  0  0
-                               LXX    50 53 50
+                               LMJC   50  0 50
+                               LXX    50 41  0
                                               WGIN   50  0  0
                                               RGIN   50  0  0
-                                              GINV   50 16  0
-                                                             GINV   50 16  0
+                                              GINV   50  9  0
+                                                             GINV   50  9  0
                                               WRES   50  0  0
                                               RRES   50  0  0
-                                              ITER   50 36 50
-                                                             NORM  265  0  0
-                                                             SRCH  215 32  0
+                                              ITER   50 32  0
+                                                             NORM  265  3  0
+                                                             SRCH  215 21  0
                                                              WADX  430  0  0
-                                                             ORTH  215  3  0
-                                                             UPDA  215  0 50
+                                                             ORTH  215  4  0
+                                                             UPDA  215  5  0
                                               WSOL   50  0  0
-                               XUIT   50  7  0
-                               LC     50 15  0
- WWX    36  0  0
+                               XUIT   50  1  0
+                               LC     50 17  0
+ WWX    36  3  0
  XW     36  0  0
 1                             **********************************************************************  73
   SIMULATE AT   720.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  36    22 DEC 1987   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  36    22 DEC 1987   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   40 TIME=  740.00  DAYS ( +20.0  DAYS REPT  1 ITS) (11-JAN-1988)          
   PAV=  3057.4  PSIA   WCT=0.229 GOR=     1.13 MSCF/STB WGR=   0.2636 STB/MSCF   
 1                             **********************************************************************  74
   WELLS    AT   740.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  37    11 JAN 1988   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  37    11 JAN 1988   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -4658,41 +4659,41 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  4 50
- TS     37 93 50
-                NX     40 79 50
-                               WC     91  0  0
-                               LMRS   91  4  0
+ SR      1  0  0
+ TS     37 94100
+                NX     40 62 50
+                               WC     91  3  0
+                               LMRS   91  0  0
                                CONV   91  0  0
-                               LMJC   51  0  0
-                               LXX    51 53 50
+                               LMJC   51  0 50
+                               LXX    51 42  0
                                               WGIN   51  0  0
                                               RGIN   51  0  0
-                                              GINV   51 16  0
-                                                             GINV   51 16  0
+                                              GINV   51  9  0
+                                                             GINV   51  9  0
                                               WRES   51  0  0
                                               RRES   51  0  0
-                                              ITER   51 37 50
-                                                             NORM  270  0  0
-                                                             SRCH  219 33  0
+                                              ITER   51 33  0
+                                                             NORM  270  3  0
+                                                             SRCH  219 22  0
                                                              WADX  438  0  0
-                                                             ORTH  219  3  0
-                                                             UPDA  219  0 50
+                                                             ORTH  219  4  0
+                                                             UPDA  219  5  0
                                               WSOL   51  0  0
-                               XUIT   51  7  0
-                               LC     51 15  0
- WWX    37  0  0
+                               XUIT   51  1  0
+                               LC     51 16  0
+ WWX    37  3  0
  XW     37  0  0
 1                             **********************************************************************  75
   SIMULATE AT   740.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  37    11 JAN 1988   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  37    11 JAN 1988   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   41 TIME=  760.00  DAYS ( +20.0  DAYS REPT  1 ITS) (31-JAN-1988)          
   PAV=  3042.3  PSIA   WCT=0.230 GOR=     1.13 MSCF/STB WGR=   0.2646 STB/MSCF   
 1                             **********************************************************************  76
   WELLS    AT   760.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  38    31 JAN 1988   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  38    31 JAN 1988   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -4763,45 +4764,45 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     :  LAYER :          5:    :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
     ================================================================================================================================
  =======================================================
- TIMING REPORTS AT CPU=     1 SECS - ELAPSED=     3 SECS
+ TIMING REPORTS AT CPU=     1 SECS - ELAPSED=     2 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  4 33
- TS     38 94 67
-                NX     41 78 67
-                               WC     93  0  0
-                               LMRS   93  4  0
+ SR      1  0  0
+ TS     38 94100
+                NX     41 62 50
+                               WC     93  2  0
+                               LMRS   93  0  0
                                CONV   93  0  0
-                               LMJC   52  0  0
-                               LXX    52 53 67
+                               LMJC   52  0 50
+                               LXX    52 43  0
                                               WGIN   52  0  0
                                               RGIN   52  0  0
-                                              GINV   52 16 33
-                                                             GINV   52 16 33
+                                              GINV   52 10  0
+                                                             GINV   52 10  0
                                               WRES   52  0  0
                                               RRES   52  0  0
-                                              ITER   52 37 33
-                                                             NORM  276  0  0
-                                                             SRCH  224 34  0
-                                                             WADX  448  0  0
-                                                             ORTH  224  3  0
-                                                             UPDA  224  0 33
+                                              ITER   52 33  0
+                                                             NORM  276  2  0
+                                                             SRCH  224 21  0
+                                                             WADX  448  1  0
+                                                             ORTH  224  4  0
+                                                             UPDA  224  5  0
                                               WSOL   52  0  0
-                               XUIT   52  7  0
-                               LC     52 14  0
- WWX    38  0  0
+                               XUIT   52  1  0
+                               LC     52 16  0
+ WWX    38  2  0
  XW     38  0  0
 1                             **********************************************************************  77
   SIMULATE AT   760.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  38    31 JAN 1988   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  38    31 JAN 1988   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   42 TIME=  780.00  DAYS ( +20.0  DAYS REPT  1 ITS) (20-FEB-1988)          
   PAV=  3027.2  PSIA   WCT=0.231 GOR=     1.13 MSCF/STB WGR=   0.2656 STB/MSCF   
 1                             **********************************************************************  78
   WELLS    AT   780.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  39    20 FEB 1988   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  39    20 FEB 1988   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -4872,45 +4873,45 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     :  LAYER :          5:    :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
     ================================================================================================================================
  =======================================================
- TIMING REPORTS AT CPU=     1 SECS - ELAPSED=     3 SECS
+ TIMING REPORTS AT CPU=     1 SECS - ELAPSED=     2 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  4 33
- TS     39 94 67
-                NX     42 78 67
-                               WC     95  0  0
-                               LMRS   95  4  0
+ SR      1  0  0
+ TS     39 94100
+                NX     42 63 50
+                               WC     95  2  0
+                               LMRS   95  0  0
                                CONV   95  0  0
-                               LMJC   53  0  0
-                               LXX    53 54 67
+                               LMJC   53  0 50
+                               LXX    53 43  0
                                               WGIN   53  0  0
                                               RGIN   53  0  0
-                                              GINV   53 15 33
-                                                             GINV   53 15 33
+                                              GINV   53 10  0
+                                                             GINV   53 10  0
                                               WRES   53  0  0
                                               RRES   53  0  0
-                                              ITER   53 38 33
-                                                             NORM  282  0  0
-                                                             SRCH  229 34  0
-                                                             WADX  458  0  0
-                                                             ORTH  229  3  0
-                                                             UPDA  229  0 33
+                                              ITER   53 34  0
+                                                             NORM  282  2  0
+                                                             SRCH  229 22  0
+                                                             WADX  458  1  0
+                                                             ORTH  229  4  0
+                                                             UPDA  229  5  0
                                               WSOL   53  0  0
-                               XUIT   53  6  0
-                               LC     53 14  0
- WWX    39  0  0
+                               XUIT   53  1  0
+                               LC     53 16  0
+ WWX    39  2  0
  XW     39  0  0
 1                             **********************************************************************  79
   SIMULATE AT   780.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  39    20 FEB 1988   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  39    20 FEB 1988   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
  STEP   43 TIME=  800.00  DAYS ( +20.0  DAYS REPT  1 ITS) (11-MAR-1988)          
   PAV=  3012.1  PSIA   WCT=0.231 GOR=     1.13 MSCF/STB WGR=   0.2665 STB/MSCF   
 1                             **********************************************************************  80
   WELLS    AT   800.00   DAYS *   3D3P 5000 CELLS                                                      * ECLIPSE  VERSION 2009.1     
-  REPORT  40    11 MAR 1988   *  RUN                                                                   * RUN AT 00:45 ON 22 AUG 2015 
+  REPORT  40    11 MAR 1988   *  RUN                                                                   * RUN AT 00:52 ON 22 AUG 2015 
                               **************************************************************************
 
 
@@ -4981,34 +4982,34 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     :  LAYER :          5:    :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
     ================================================================================================================================
  =======================================================
- TIMING REPORTS AT CPU=     1 SECS - ELAPSED=     3 SECS
+ TIMING REPORTS AT CPU=     1 SECS - ELAPSED=     2 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
- SR      1  4 33
- TS     40 94 67
-                NX     43 79 67
-                               WC     97  0  0
-                               LMRS   97  4  0
+ SR      1  0  0
+ TS     40 94100
+                NX     43 62 50
+                               WC     97  2  0
+                               LMRS   97  0  0
                                CONV   97  0  0
-                               LMJC   54  0  0
-                               LXX    54 55 67
+                               LMJC   54  0 50
+                               LXX    54 43  0
                                               WGIN   54  0  0
                                               RGIN   54  0  0
-                                              GINV   54 16 33
-                                                             GINV   54 16 33
+                                              GINV   54  9  0
+                                                             GINV   54  9  0
                                               WRES   54  0  0
                                               RRES   54  0  0
-                                              ITER   54 39 33
-                                                             NORM  288  0  0
-                                                             SRCH  234 35  0
-                                                             WADX  468  0  0
-                                                             ORTH  234  2  0
-                                                             UPDA  234  0 33
+                                              ITER   54 34  0
+                                                             NORM  288  2  0
+                                                             SRCH  234 22  0
+                                                             WADX  468  1  0
+                                                             ORTH  234  3  0
+                                                             UPDA  234  5  0
                                               WSOL   54  0  0
-                               XUIT   54  6  0
-                               LC     54 14  0
- WWX    40  0  0
+                               XUIT   54  1  0
+                               LC     54 15  0
+ WWX    40  2  0
  XW     40  0  0
     79 READING END     
 
@@ -5018,4 +5019,4 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  Problems               0
  Errors                 0
  Bugs                   0
- Final cpu       1.25 elapsed       3.00
+ Final cpu       1.34 elapsed       2.00
