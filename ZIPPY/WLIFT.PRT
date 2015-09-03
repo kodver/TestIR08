@@ -309,7 +309,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  @           USING  OLDTRAN                                                  
 1                             **********************************************************************   1
   DEPTH    AT     0.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   0     1 JAN 1983   *  RUN                                                                   * RUN AT 14:44 ON 03 SEP 2015 
+  REPORT   0     1 JAN 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  UNITS  METRES         
@@ -360,7 +360,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     28 READING SOLUTION
 1                             **********************************************************************   2
   PVDO     AT     0.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   0     1 JAN 1983   *  RUN                                                                   * RUN AT 14:44 ON 03 SEP 2015 
+  REPORT   0     1 JAN 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  ---------------------------
@@ -381,7 +381,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     31 READING SUMMARY 
 1                             **********************************************************************   3
   EQUIL    AT     0.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   0     1 JAN 1983   *  RUN                                                                   * RUN AT 14:44 ON 03 SEP 2015 
+  REPORT   0     1 JAN 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
 
@@ -396,7 +396,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     1    2070.00   400.000     2120.00             0                                       10  (TILTED BLOCK INTEGRATION)            
 1                             **********************************************************************   4
   PRESSURE AT     0.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   0     1 JAN 1983   *  RUN                                                                   * RUN AT 14:44 ON 03 SEP 2015 
+  REPORT   0     1 JAN 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  UNITS   BARSA         
@@ -428,7 +428,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  (*,  9,  2)  413.799 408.226 404.317 402.158 401.468 402.158 404.317 408.226 413.799
 1                             **********************************************************************   5
   SWAT     AT     0.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   0     1 JAN 1983   *  RUN                                                                   * RUN AT 14:44 ON 03 SEP 2015 
+  REPORT   0     1 JAN 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  UNITS                 
@@ -460,7 +460,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  (*,  9,  2)  1.00000 0.99992 0.82726 0.37271 0.27542 0.37271 0.82726 0.99992 1.00000
 1                             **********************************************************************   6
   BALANCE  AT     0.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   0     1 JAN 1983   *  RUN                                                                   * RUN AT 14:44 ON 03 SEP 2015 
+  REPORT   0     1 JAN 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
 
@@ -528,7 +528,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  @           IT COULD CAUSE WELL CONVERGENCE OR HUNTING PROBLEMS.            
 1                             **********************************************************************   7
   VFP TAB  AT     0.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   0     1 JAN 1983   *  RUN                                                                   * RUN AT 14:44 ON 03 SEP 2015 
+  REPORT   0     1 JAN 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
                                                    PRODUCTION WELL VFP TABLE  1
@@ -667,7 +667,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     53 READING TSTEP   
 1                             **********************************************************************   8
   WELSPECS AT     0.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   0     1 JAN 1983   *  RUN                                                                   * RUN AT 14:44 ON 03 SEP 2015 
+  REPORT   0     1 JAN 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
 
@@ -882,7 +882,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
           ------------------------------------------------------------------------------------------------------------------
 1                             **********************************************************************   9
   SIMULATE AT     0.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   0     1 JAN 1983   *  RUN                                                                   * RUN AT 14:44 ON 03 SEP 2015 
+  REPORT   0     1 JAN 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  IT= 0   CNV      CELL     MAT BAL   DPRESS    DSWAT                                       
@@ -1070,7 +1070,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
       MAX DP =   -8.15(  9,  3,  2) 
 1                             **********************************************************************  10
   WELLS    AT    50.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   1    20 FEB 1983   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   1    20 FEB 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
 
@@ -1225,7 +1225,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     ================================================================================================================================
 1                             **********************************************************************  11
   BALANCE  AT    50.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   1    20 FEB 1983   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   1    20 FEB 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
 
@@ -1261,7 +1261,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  ====================================================================================================================================
 1                             **********************************************************************  12
   PRESSURE AT    50.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   1    20 FEB 1983   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   1    20 FEB 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  UNITS   BARSA         
@@ -1293,7 +1293,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  (*,  9,  2)  426*691 413.088 403.501 395.384 387.499 383.312 381.822 384.052 389.105
 1                             **********************************************************************  13
   SWAT     AT    50.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   1    20 FEB 1983   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   1    20 FEB 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  UNITS                 
@@ -1328,13 +1328,13 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  @           RESTART FILE WRITTEN   REPORT     1                             
  @           RESTART INCLUDES FLUIDS IN PLACE                                
  =======================================================
- TIMING REPORTS AT CPU=     0 SECS - ELAPSED=    27 SECS
+ TIMING REPORTS AT CPU=     0 SECS - ELAPSED=     0 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
  SR      1  0  0
- TS      1 74100
-                NX      5  0 96
+ TS      1  0  0
+                NX      5  0  0
                                WC     17  0  0
                                LMRS   17  0  0
                                CONV   17  0  0
@@ -1353,15 +1353,15 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
                                                              ORTH   27  0  0
                                                              UPDA   27  0  0
                                               WSOL   12  0  0
-                               XUIT   12  0 96
+                               XUIT   12  0  0
                                LC     12  0  0
  WWX     1  0  0
  FWXR    1  0  0
  XW      1  0  0
- YW      1 26  0
+ YW      1  0  0
 1                             **********************************************************************  14
   SIMULATE AT    50.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   1    20 FEB 1983   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   1    20 FEB 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  IT= 0   CNV      CELL     MAT BAL   DPRESS    DSWAT                                       
@@ -1400,7 +1400,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
       MAX DP =  -20.64(  7,  5,  2) 
 1                             **********************************************************************  15
   WELLS    AT   100.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   2    11 APR 1983   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   2    11 APR 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
 
@@ -1555,7 +1555,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     ================================================================================================================================
 1                             **********************************************************************  16
   BALANCE  AT   100.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   2    11 APR 1983   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   2    11 APR 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
 
@@ -1591,7 +1591,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  ====================================================================================================================================
 1                             **********************************************************************  17
   PRESSURE AT   100.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   2    11 APR 1983   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   2    11 APR 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  UNITS   BARSA         
@@ -1623,7 +1623,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  (*,  9,  2)  408*890 394.536 384.541 376.130 367.965 363.456 361.691 363.764 368.775
 1                             **********************************************************************  18
   SWAT     AT   100.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   2    11 APR 1983   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   2    11 APR 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  UNITS                 
@@ -1658,13 +1658,13 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  @           RESTART FILE WRITTEN   REPORT     2                             
  @           RESTART INCLUDES FLUIDS IN PLACE                                
  =======================================================
- TIMING REPORTS AT CPU=     0 SECS - ELAPSED=    27 SECS
+ TIMING REPORTS AT CPU=     0 SECS - ELAPSED=     0 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
  SR      1  0  0
- TS      2 59100
-                NX      6  0 96
+ TS      2  0  0
+                NX      6  0  0
                                WC     22  0  0
                                LMRS   22  0  0
                                CONV   22  0  0
@@ -1683,15 +1683,15 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
                                                              ORTH   41  0  0
                                                              UPDA   41  0  0
                                               WSOL   16  0  0
-                               XUIT   16  0 96
+                               XUIT   16  0  0
                                LC     16  0  0
  WWX     2  0  0
  FWXR    2  0  0
  XW      2  0  0
- YW      2 41  0
+ YW      2  0  0
 1                             **********************************************************************  19
   SIMULATE AT   100.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   2    11 APR 1983   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   2    11 APR 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  IT= 0   CNV      CELL     MAT BAL   DPRESS    DSWAT                                       
@@ -1799,7 +1799,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
       MAX DP =  -52.19(  1,  1,  2) 
 1                             **********************************************************************  20
   WELLS    AT   200.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   3    20 JLY 1983   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   3    20 JLY 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
 
@@ -1954,7 +1954,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     ================================================================================================================================
 1                             **********************************************************************  21
   BALANCE  AT   200.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   3    20 JLY 1983   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   3    20 JLY 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
 
@@ -1990,7 +1990,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  ====================================================================================================================================
 1                             **********************************************************************  22
   PRESSURE AT   200.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   3    20 JLY 1983   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   3    20 JLY 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  UNITS   BARSA         
@@ -2022,7 +2022,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  (*,  9,  2)  357*959 344.655 335.337 327.545 320.073 315.796 314.140 316.159 321.158
 1                             **********************************************************************  23
   SWAT     AT   200.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   3    20 JLY 1983   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   3    20 JLY 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  UNITS                 
@@ -2057,15 +2057,15 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  @           RESTART FILE WRITTEN   REPORT     3                             
  @           RESTART INCLUDES FLUIDS IN PLACE                                
  =======================================================
- TIMING REPORTS AT CPU=     0 SECS - ELAPSED=    27 SECS
+ TIMING REPORTS AT CPU=     0 SECS - ELAPSED=     0 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
  SR      1  0  0
- TS      3 66100
-                NX      7 16 96
+ TS      3  0  0
+                NX      7  0  0
                                WC     28  0  0
-                               LMRS   28 16  0
+                               LMRS   28  0  0
                                CONV   28  0  0
                                LMJC   21  0  0
                                LXX    21  0  0
@@ -2082,15 +2082,15 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
                                                              ORTH   64  0  0
                                                              UPDA   64  0  0
                                               WSOL   21  0  0
-                               XUIT   21  0 96
+                               XUIT   21  0  0
                                LC     21  0  0
  WWX     3  0  0
  FWXR    3  0  0
  XW      3  0  0
- YW      3 34  0
+ YW      3  0  0
 1                             **********************************************************************  24
   SIMULATE AT   200.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   3    20 JLY 1983   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   3    20 JLY 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  IT= 0   CNV      CELL     MAT BAL   DPRESS    DSWAT                                       
@@ -2169,7 +2169,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
       MAX DP =  -25.45(  1,  9,  2) 
 1                             **********************************************************************  25
   WELLS    AT   300.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   4    28 OCT 1983   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   4    28 OCT 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
 
@@ -2324,7 +2324,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     ================================================================================================================================
 1                             **********************************************************************  26
   BALANCE  AT   300.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   4    28 OCT 1983   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   4    28 OCT 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
 
@@ -2360,7 +2360,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  ====================================================================================================================================
 1                             **********************************************************************  27
   PRESSURE AT   300.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   4    28 OCT 1983   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   4    28 OCT 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  UNITS   BARSA         
@@ -2392,7 +2392,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  (*,  9,  2)  332*512 321.194 313.023 306.065 299.421 295.531 294.231 296.378 301.431
 1                             **********************************************************************  28
   SWAT     AT   300.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   4    28 OCT 1983   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   4    28 OCT 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  UNITS                 
@@ -2427,15 +2427,15 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  @           RESTART FILE WRITTEN   REPORT     4                             
  @           RESTART INCLUDES FLUIDS IN PLACE                                
  =======================================================
- TIMING REPORTS AT CPU=     0 SECS - ELAPSED=    27 SECS
+ TIMING REPORTS AT CPU=     0 SECS - ELAPSED=     0 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
  SR      1  0  0
- TS      4 66100
-                NX      8 16 96
+ TS      4  0  0
+                NX      8  0  0
                                WC     34  0  0
-                               LMRS   34 16  0
+                               LMRS   34  0  0
                                CONV   34  0  0
                                LMJC   26  0  0
                                LXX    26  0  0
@@ -2452,15 +2452,15 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
                                                              ORTH   86  0  0
                                                              UPDA   86  0  0
                                               WSOL   26  0  0
-                               XUIT   26  0 96
+                               XUIT   26  0  0
                                LC     26  0  0
  WWX     4  0  0
  FWXR    4  0  0
  XW      4  0  0
- YW      4 34  0
+ YW      4  0  0
 1                             **********************************************************************  29
   SIMULATE AT   300.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   4    28 OCT 1983   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   4    28 OCT 1983   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  IT= 0   CNV      CELL     MAT BAL   DPRESS    DSWAT                                       
@@ -2514,7 +2514,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
       MAX DP =  -28.25(  2,  4,  1) 
 1                             **********************************************************************  30
   WELLS    AT   400.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   5     5 FEB 1984   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   5     5 FEB 1984   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
 
@@ -2669,7 +2669,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     ================================================================================================================================
 1                             **********************************************************************  31
   BALANCE  AT   400.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   5     5 FEB 1984   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   5     5 FEB 1984   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
 
@@ -2705,7 +2705,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  ====================================================================================================================================
 1                             **********************************************************************  32
   PRESSURE AT   400.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   5     5 FEB 1984   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   5     5 FEB 1984   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  UNITS   BARSA         
@@ -2737,7 +2737,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  (*,  9,  2)  308*504 298.332 291.475 286.012 281.308 278.870 278.690 281.332 286.537
 1                             **********************************************************************  33
   SWAT     AT   400.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   5     5 FEB 1984   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   5     5 FEB 1984   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  UNITS                 
@@ -2772,15 +2772,15 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  @           RESTART FILE WRITTEN   REPORT     5                             
  @           RESTART INCLUDES FLUIDS IN PLACE                                
  =======================================================
- TIMING REPORTS AT CPU=     0 SECS - ELAPSED=    27 SECS
+ TIMING REPORTS AT CPU=     0 SECS - ELAPSED=     0 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
  SR      1  0  0
- TS      5 71100
-                NX      9 14 96
+ TS      5  0  0
+                NX      9  0  0
                                WC     40  0  0
-                               LMRS   40 14  0
+                               LMRS   40  0  0
                                CONV   40  0  0
                                LMJC   31  0  0
                                LXX    31  0  0
@@ -2797,15 +2797,15 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
                                                              ORTH  107  0  0
                                                              UPDA  107  0  0
                                               WSOL   31  0  0
-                               XUIT   31  0 96
+                               XUIT   31  0  0
                                LC     31  0  0
  WWX     5  0  0
  FWXR    5  0  0
  XW      5  0  0
- YW      5 29  0
+ YW      5  0  0
 1                             **********************************************************************  34
   SIMULATE AT   400.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   5     5 FEB 1984   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   5     5 FEB 1984   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  IT= 0   CNV      CELL     MAT BAL   DPRESS    DSWAT                                       
@@ -2889,7 +2889,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
       MAX DP =  -29.23(  3,  7,  2) 
 1                             **********************************************************************  35
   WELLS    AT   500.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   6    15 MAY 1984   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   6    15 MAY 1984   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
 
@@ -3044,7 +3044,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     ================================================================================================================================
 1                             **********************************************************************  36
   BALANCE  AT   500.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   6    15 MAY 1984   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   6    15 MAY 1984   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
 
@@ -3080,7 +3080,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  ====================================================================================================================================
 1                             **********************************************************************  37
   PRESSURE AT   500.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   6    15 MAY 1984   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   6    15 MAY 1984   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  UNITS   BARSA         
@@ -3112,7 +3112,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  (*,  9,  2)  283*197 273.277 266.787 262.965 261.010 260.966 262.663 266.214 271.693
 1                             **********************************************************************  38
   SWAT     AT   500.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   6    15 MAY 1984   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   6    15 MAY 1984   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  UNITS                 
@@ -3147,15 +3147,15 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  @           RESTART FILE WRITTEN   REPORT     6                             
  @           RESTART INCLUDES FLUIDS IN PLACE                                
  =======================================================
- TIMING REPORTS AT CPU=     0 SECS - ELAPSED=    27 SECS
+ TIMING REPORTS AT CPU=     0 SECS - ELAPSED=     0 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
  SR      1  0  0
- TS      6 74100
-                NX     10 25 96
+ TS      6  0  0
+                NX     10  0  0
                                WC     46  0  0
-                               LMRS   46 12  0
+                               LMRS   46  0  0
                                CONV   46  0  0
                                LMJC   36  0  0
                                LXX    36  0  0
@@ -3172,15 +3172,15 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
                                                              ORTH  127  0  0
                                                              UPDA  127  0  0
                                               WSOL   36  0  0
-                               XUIT   36  0 96
-                               LC     36 13  0
+                               XUIT   36  0  0
+                               LC     36  0  0
  WWX     6  0  0
  FWXR    6  0  0
  XW      6  0  0
- YW      6 26  0
+ YW      6  0  0
 1                             **********************************************************************  39
   SIMULATE AT   500.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   6    15 MAY 1984   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   6    15 MAY 1984   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  IT= 0   CNV      CELL     MAT BAL   DPRESS    DSWAT                                       
@@ -3264,7 +3264,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
       MAX DP =  -20.71(  7,  5,  2) 
 1                             **********************************************************************  40
   WELLS    AT   600.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   7    23 AUG 1984   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   7    23 AUG 1984   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
 
@@ -3411,7 +3411,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     ================================================================================================================================
 1                             **********************************************************************  41
   BALANCE  AT   600.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   7    23 AUG 1984   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   7    23 AUG 1984   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
 
@@ -3447,7 +3447,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  ====================================================================================================================================
 1                             **********************************************************************  42
   PRESSURE AT   600.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   7    23 AUG 1984   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   7    23 AUG 1984   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  UNITS   BARSA         
@@ -3479,7 +3479,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  (*,  9,  2)  272*041 263.332 256.966 252.671 249.570 248.175 248.643 251.579 256.887
 1                             **********************************************************************  43
   SWAT     AT   600.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   7    23 AUG 1984   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   7    23 AUG 1984   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  UNITS                 
@@ -3514,40 +3514,40 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  @           RESTART FILE WRITTEN   REPORT     7                             
  @           RESTART INCLUDES FLUIDS IN PLACE                                
  =======================================================
- TIMING REPORTS AT CPU=     0 SECS - ELAPSED=    28 SECS
+ TIMING REPORTS AT CPU=     0 SECS - ELAPSED=     0 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
  SR      1  0  0
- TS      7 74100
-                NX     11 25 96
+ TS      7  0  0
+                NX     11  0  0
                                WC     51  0  0
-                               LMRS   51 12  0
+                               LMRS   51  0  0
                                CONV   51  0  0
                                LMJC   40  0  0
-                               LXX    40  0  4
+                               LXX    40  0  0
                                               WGIN   40  0  0
                                               RGIN   40  0  0
                                               GINV   40  0  0
                                                              GINV   40  0  0
                                               WRES   40  0  0
                                               RRES   40  0  0
-                                              ITER   40  0  4
+                                              ITER   40  0  0
                                                              NORM  185  0  0
-                                                             SRCH  145  0  4
+                                                             SRCH  145  0  0
                                                              WADX  290  0  0
                                                              ORTH  145  0  0
                                                              UPDA  145  0  0
                                               WSOL   40  0  0
-                               XUIT   40  0 93
-                               LC     40 13  0
+                               XUIT   40  0  0
+                               LC     40  0  0
  WWX     7  0  0
  FWXR    7  0  0
  XW      7  0  0
- YW      7 26  0
+ YW      7  0  0
 1                             **********************************************************************  44
   SIMULATE AT   600.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   7    23 AUG 1984   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   7    23 AUG 1984   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  IT= 0   CNV      CELL     MAT BAL   DPRESS    DSWAT                                       
@@ -3603,7 +3603,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
                 (  7,  5,  2)        209.6         210.0
 1                             **********************************************************************  45
   WELLS    AT   700.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   8     1 DEC 1984   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   8     1 DEC 1984   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
 
@@ -3750,7 +3750,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
     ================================================================================================================================
 1                             **********************************************************************  46
   BALANCE  AT   700.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   8     1 DEC 1984   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   8     1 DEC 1984   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
 
@@ -3786,7 +3786,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  ====================================================================================================================================
 1                             **********************************************************************  47
   PRESSURE AT   700.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   8     1 DEC 1984   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   8     1 DEC 1984   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  UNITS   BARSA         
@@ -3818,7 +3818,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  (*,  9,  2)  265*584 255.085 247.235 240.686 234.430 230.419 229.012 231.006 236.020
 1                             **********************************************************************  48
   SWAT     AT   700.00   DAYS *   TEST FOR AUTOMATIC LIFT SWITCHING, DOWNTIME, DELAYED WORKOVERS       * ECLIPSE  VERSION 2009.1     
-  REPORT   8     1 DEC 1984   *  RUN                                                                   * RUN AT 14:45 ON 03 SEP 2015 
+  REPORT   8     1 DEC 1984   *  RUN                                                                   * RUN AT 14:46 ON 03 SEP 2015 
                               **************************************************************************
 
  UNITS                 
@@ -3853,37 +3853,37 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  @           RESTART FILE WRITTEN   REPORT     8                             
  @           RESTART INCLUDES FLUIDS IN PLACE                                
  =======================================================
- TIMING REPORTS AT CPU=     0 SECS - ELAPSED=    28 SECS
+ TIMING REPORTS AT CPU=     0 SECS - ELAPSED=     0 SECS
  =======================================================
  ZZSS    1  0  0
                 RR      1  0  0
  SR      1  0  0
- TS      8 74100
-                NX     12 25 96
+ TS      8  0  0
+                NX     12  0  0
                                WC     56  0  0
-                               LMRS   56 12  0
+                               LMRS   56  0  0
                                CONV   56  0  0
                                LMJC   44  0  0
-                               LXX    44  0  4
+                               LXX    44  0  0
                                               WGIN   44  0  0
                                               RGIN   44  0  0
                                               GINV   44  0  0
                                                              GINV   44  0  0
                                               WRES   44  0  0
                                               RRES   44  0  0
-                                              ITER   44  0  4
+                                              ITER   44  0  0
                                                              NORM  206  0  0
-                                                             SRCH  162  0  4
+                                                             SRCH  162  0  0
                                                              WADX  324  0  0
                                                              ORTH  162  0  0
                                                              UPDA  162  0  0
                                               WSOL   44  0  0
-                               XUIT   44  0 93
-                               LC     44 13  0
+                               XUIT   44  0  0
+                               LC     44  0  0
  WWX     8  0  0
  FWXR    8  0  0
  XW      8  0  0
- YW      8 26  0
+ YW      8  0  0
 
  @--COMMENT  AT TIME      700.0   DAYS    ( 1-DEC-1984):
  @           ***********************************************                 
@@ -3897,7 +3897,7 @@ utility  | 17-FEB-2009 08:34:11 | 25-APR-2009 05:40:00 | S:\2009.1_w18
  Problems               0
  Errors                 0
  Bugs                   0
- Final cpu       0.12 elapsed      28.00
+ Final cpu       0.00 elapsed       0.00
 1                                                                                                                                  
  -------------------------------------------------------------------------------------------------------------------------------
  SUMMARY OF RUN WLIFT ECLIPSE 2009.1 DATESTAMP 27-APR-2009 USER   MACHINE pceta16                                                        
