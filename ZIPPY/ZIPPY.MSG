@@ -1,0 +1,195 @@
+<eclipse>
+<message date="1/1/1982" time="0.00000000000000">
+ CHECKING FOR LICENSES                                                   
+</message>
+<message date="1/1/1982" time="0.00000000000000">
+ THE MEMORY REQUIRED TO PROCESS THE GRID SECTION IS                      
+      26392 KBYTES                                                       
+</message>
+<message date="1/1/1982" time="0.00000000000000">
+ CHECKING FOR LICENSES                                                   
+</message>
+<message date="1/1/1982" time="0.00000000000000">
+ NEITHER OLDTRAN,OLDTRANR NOR NEWTRAN SPECIFIED                          
+ TRANSMISSIBILITIES TO BE CALCULATED                                     
+ USING  NEWTRAN                                                          
+</message>
+<comment date="1/1/1982" time="0.00000000000000">
+ NO NON-NEIGHBOUR CONNECTIONS IN GLOBAL GRID                             
+</comment>
+<message date="1/1/1982" time="0.00000000000000">
+ NUMBER OF ACTIVE GLOBAL CELLS IS 62500                                  
+ NUMBER OF ACTIVE  LOCAL CELLS IS 0                                      
+  TOTAL NUMBER OF ACTIVE CELLS IS 62500                                  
+</message>
+<message date="1/1/1982" time="0.00000000000000">
+ THE MEMORY REQUIRED TO PROCESS THE SOLUTION SECTION IS                  
+      88196 KBYTES                                                       
+</message>
+<message date="1/1/1982" time="0.00000000000000">
+    59188 CHARACTER VARIABLES USED                                       
+</message>
+<warning date="1/1/1982" time="0.00000000000000">
+ MONOTONICITY WARNING IN PVTO TABLE NUMBER   1                           
+ FVF OF SATURATED OIL (=  2.1747) AT RS =   1.988 IS &lt; OR =           
+ FVF OF SATURATED OIL (=  2.1747) AT RS =   1.952                        
+</warning>
+<warning date="1/1/1982" time="0.00000000000000">
+ MONOTONICITY WARNING IN PVTO TABLE NUMBER   1                           
+ FVF OF SATURATED OIL (=  2.1749) AT RS =   2.198 IS &lt; OR =           
+ FVF OF SATURATED OIL (=  2.1749) AT RS =   2.126                        
+</warning>
+<message date="1/1/1982" time="0.00000000000000">
+ THE TOP-UP PHASE IS SET TO WATER AS                                     
+ GROUP FIELD    HAS A TARGET OR LIMIT RESERVOIR                          
+ VOLUME RATE OR VOIDAGE REPLACEMENT FRACTION                             
+ FOR WATER INJECTION CONTROL                                             
+</message>
+<message date="1/1/1982" time="0.00000000000000">
+ RESTART FILE WRITTEN   REPORT     0                                     
+</message>
+<message date="30/6/1982" time="180.00000000000000">
+ RESTART FILE WRITTEN   REPORT     1                                     
+</message>
+<message date="15/9/1982" time="257.90621242411873">
+ ****************************************************************        
+ * WELL P12      IS  SHUT   AT TIME     262.79   DAYS   BECAUSE *        
+ * THE WELL     WATER CUT      7.6913E-01                       *        
+ * EXCEEDS THE LIMIT   7.5000E-01         .                     *        
+ ****************************************************************        
+</message>
+<message date="15/9/1982" time="257.90621242411873">
+ ****************************************************************        
+ * WELL P11      IS  SHUT   AT TIME     262.79   DAYS   BECAUSE *        
+ * THE WELL     WATER CUT      7.6913E-01                       *        
+ * EXCEEDS THE LIMIT   7.5000E-01         .                     *        
+ ****************************************************************        
+</message>
+<message date="27/12/1982" time="360.00000000000000">
+ RESTART FILE WRITTEN   REPORT     2                                     
+</message>
+<message date="27/12/1982" time="360.00000000000000">
+ ****************************************************************        
+ * WELL P6       IS  SHUT   AT TIME     365.96   DAYS   BECAUSE *        
+ * THE WELL     WATER CUT      7.6528E-01                       *        
+ * EXCEEDS THE LIMIT   7.5000E-01         .                     *        
+ ****************************************************************        
+</message>
+<message date="25/5/1983" time="509.00851442851126">
+ ****************************************************************        
+ * WELL P9       IS  SHUT   AT TIME     516.93   DAYS   BECAUSE *        
+ * THE WELL     WATER CUT      7.7129E-01                       *        
+ * EXCEEDS THE LIMIT   7.5000E-01         .                     *        
+ ****************************************************************        
+</message>
+<message date="25/5/1983" time="509.00851442851126">
+ ****************************************************************        
+ * WELL P10      IS  SHUT   AT TIME     516.93   DAYS   BECAUSE *        
+ * THE WELL     WATER CUT      7.7127E-01                       *        
+ * EXCEEDS THE LIMIT   7.5000E-01         .                     *        
+ ****************************************************************        
+</message>
+<message date="25/6/1983" time="540.00000000000000">
+ RESTART FILE WRITTEN   REPORT     3                                     
+</message>
+<message date="22/12/1983" time="720.00000000000000">
+ RESTART FILE WRITTEN   REPORT     4                                     
+</message>
+<message date="12/2/1984" time="772.68482665021645">
+ ****************************************************************        
+ * WELL P4       IS  SHUT   AT TIME     780.10   DAYS   BECAUSE *        
+ * THE WELL     WATER CUT      7.6550E-01                       *        
+ * EXCEEDS THE LIMIT   7.5000E-01         .                     *        
+ ****************************************************************        
+</message>
+<message date="12/2/1984" time="772.68482665021645">
+ ****************************************************************        
+ * WELL P5       IS  SHUT   AT TIME     780.10   DAYS   BECAUSE *        
+ * THE WELL     WATER CUT      7.6549E-01                       *        
+ * EXCEEDS THE LIMIT   7.5000E-01         .                     *        
+ ****************************************************************        
+</message>
+<message date="19/6/1984" time="900.00000000000000">
+ RESTART FILE WRITTEN   REPORT     5                                     
+</message>
+<message date="16/12/1984" time="1080.00000000000000">
+ RESTART FILE WRITTEN   REPORT     6                                     
+</message>
+<message date="14/6/1985" time="1260.00000000000000">
+ RESTART FILE WRITTEN   REPORT     7                                     
+</message>
+<message date="9/10/1985" time="1377.07698534885776">
+ ****************************************************************        
+ * WELL P7       IS  SHUT   AT TIME    1388.50   DAYS   BECAUSE *        
+ * THE WELL     WATER CUT      7.5722E-01                       *        
+ * EXCEEDS THE LIMIT   7.5000E-01         .                     *        
+ ****************************************************************        
+</message>
+<message date="9/10/1985" time="1377.07698534885776">
+ ****************************************************************        
+ * WELL P8       IS  SHUT   AT TIME    1388.50   DAYS   BECAUSE *        
+ * THE WELL     WATER CUT      7.5721E-01                       *        
+ * EXCEEDS THE LIMIT   7.5000E-01         .                     *        
+ ****************************************************************        
+</message>
+<message date="11/12/1985" time="1440.00000000000000">
+ RESTART FILE WRITTEN   REPORT     8                                     
+</message>
+<message date="9/6/1986" time="1620.00000000000000">
+ RESTART FILE WRITTEN   REPORT     9                                     
+</message>
+<message date="30/10/1986" time="1763.93987047445103">
+ ****************************************************************        
+ * WELL P3       IS  SHUT   AT TIME    1773.60   DAYS   BECAUSE *        
+ * THE WELL     WATER CUT      7.5028E-01                       *        
+ * EXCEEDS THE LIMIT   7.5000E-01         .                     *        
+ ****************************************************************        
+</message>
+<message date="6/12/1986" time="1800.00000000000000">
+ RESTART FILE WRITTEN   REPORT    10                                     
+</message>
+<message date="4/6/1987" time="1980.00000000000000">
+ RESTART FILE WRITTEN   REPORT    11                                     
+</message>
+<message date="1/12/1987" time="2160.00000000000000">
+ RESTART FILE WRITTEN   REPORT    12                                     
+</message>
+<message date="29/5/1988" time="2340.00000000000000">
+ RESTART FILE WRITTEN   REPORT    13                                     
+</message>
+<message date="25/11/1988" time="2520.00000000000000">
+ RESTART FILE WRITTEN   REPORT    14                                     
+</message>
+<message date="24/5/1989" time="2700.00000000000000">
+ RESTART FILE WRITTEN   REPORT    15                                     
+</message>
+<message date="20/11/1989" time="2880.00000000000000">
+ RESTART FILE WRITTEN   REPORT    16                                     
+</message>
+<message date="19/5/1990" time="3060.00000000000000">
+ RESTART FILE WRITTEN   REPORT    17                                     
+</message>
+<message date="2/6/1990" time="3074.21901933177924">
+ ****************************************************************        
+ * WELL P2       IS  SHUT   AT TIME    3088.57   DAYS   BECAUSE *        
+ * THE WELL     WATER CUT      7.5309E-01                       *        
+ * EXCEEDS THE LIMIT   7.5000E-01         .                     *        
+ ****************************************************************        
+</message>
+<message date="2/6/1990" time="3074.21901933177924">
+ ****************************************************************        
+ * WELL P1       IS  SHUT   AT TIME    3088.57   DAYS   BECAUSE *        
+ * THE WELL     WATER CUT      7.5309E-01                       *        
+ * EXCEEDS THE LIMIT   7.5000E-01         .                     *        
+ ****************************************************************        
+</message>
+<message date="15/11/1990" time="3240.00000000000000">
+ RESTART FILE WRITTEN   REPORT    18                                     
+</message>
+<message date="14/5/1991" time="3420.00000000000000">
+ RESTART FILE WRITTEN   REPORT    19                                     
+</message>
+<message date="10/11/1991" time="3600.00000000000000">
+ RESTART FILE WRITTEN   REPORT    20                                     
+</message>
+</eclipse>
